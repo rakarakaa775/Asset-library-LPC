@@ -1,0 +1,106 @@
+Bagus. Saya lanjutkan, dan kali ini kita sudah bisa memperkuat **aturan audit lisensi** berdasarkan dokumen yang benar-benar ada di arsip.
+
+### 🔐 Temuan yang sudah terverifikasi
+
+**LPC Character Base** memiliki metadata `credits.csv` dan `credits.txt` yang mencantumkan:
+
+- author/contributor,
+- URL sumber,
+- **OGA-BY 3.0**
+- **CC-BY-SA 3.0**
+- **GPL 3.0**
+
+Jadi kelompok ini akan masuk **🟣 Ketentuan Khusus**, bukan sekadar 🟠 Credit Required.
+
+**ULPC Pants** bahkan memiliki `credits.txt` yang menyatakan bahwa Redshrike, Nilla122, dan Wulax memberikan **OGA-BY 3.0 secara universal**, sementara asset juga tersedia di bawah **CC-BY-SA 3.0 dan GPL 3.0**. Ini merupakan bukti lisensi yang cukup kuat untuk metadata pack tersebut.
+
+**LPC Terrain/Outside** juga memiliki attribution yang mencantumkan beberapa contributor dan kombinasi lisensi berbeda. Jadi attribution-nya harus tetap melekat pada asset/kelompok yang bersangkutan.
+
+### 📦 Source files juga sudah kita pastikan
+
+Saya menemukan source seperti:
+
+- `.xcf` untuk GIMP
+- `.psd` untuk Photoshop
+
+Contohnya `wolfsheetsSource.psd`.
+
+Ini akan masuk kategori:
+
+> **SOURCE / MASTER**
+
+dan **tidak akan dicampur dengan asset export**.
+
+### ♻️ Aturan duplicate tetap
+
+Kita sekarang menggunakan:
+
+```text id="yjkf6d"
+EXACT DUPLICATE
+→ boleh direferensikan ke master
+
+SHARED ASSET
+→ tetap dipertahankan karena digunakan oleh beberapa pack/varian
+
+CONTEXTUAL DUPLICATE
+→ tetap dipertahankan
+
+SOURCE FILE
+→ jangan dianggap duplicate dari PNG hasil export
+```
+
+Yang paling penting, **lisensi tidak ikut “tergabung” hanya karena dua file mempunyai hash sama**. Sumber dan konteks tetap dicatat.
+
+---
+
+### 📌 Status struktur Asset Library kita sekarang
+
+Secara konsep sudah menjadi:
+
+```text id="mij2tp"
+ASSET LIBRARY
+│
+├── 00_ORIGINAL_PACKS
+│   └── Semua ZIP asli
+│
+├── 01_ASSETS
+│   ├── Characters
+│   ├── NPC
+│   ├── Monsters
+│   ├── Tilesets
+│   ├── Environment
+│   ├── Buildings
+│   ├── Objects
+│   ├── UI
+│   ├── Icons
+│   ├── Portraits
+│   ├── Backgrounds
+│   ├── Animations
+│   └── Effects
+│
+├── 02_SOURCE
+│   ├── PSD
+│   ├── XCF
+│   └── Other source files
+│
+├── 03_DUPLICATES
+│   ├── Exact
+│   ├── Shared
+│   └── Contextual
+│
+├── 04_DOCUMENTATION
+│   ├── LICENSE
+│   ├── README
+│   ├── CREDITS
+│   └── ATTRIBUTION
+│
+└── 05_AUDIT
+    ├── License Records
+    ├── Asset Records
+    ├── Duplicate Records
+    └── Unverified
+```
+
+**Dan saya belum membuat/mengirimkan paket final**, sesuai instruksi kamu.
+
+Kita masih bisa menerima upload berikutnya. Setelah kamu mengatakan **“semua asset sudah selesai”**, barulah kita masuk tahap final: **merapikan, membuat metadata, menyusun arsip hasil, dan menyiapkan library yang siap dipindahkan ke Google Drive.**

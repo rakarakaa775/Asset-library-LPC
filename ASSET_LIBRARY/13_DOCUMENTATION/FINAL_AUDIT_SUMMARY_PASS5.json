@@ -1,0 +1,33 @@
+{
+  "checkpoint": "PASS5",
+  "date": "2026-08-23",
+  "new_zip_uploads": [
+    "wild_boar.zip",
+    "lpc-desert-ruins.zip",
+    "push_and_carry.zip",
+    "lpc_magic_headband.zip",
+    "lpc-more-weapons.zip",
+    "lpc-helmets-mega-pack_build.zip",
+    "lpc-ship.zip",
+    "weapons.zip",
+    "lpc_dcss_swords.zip"
+  ],
+  "new_standalone_uploads": [
+    "toolrack.png",
+    "town_buildings.png",
+    "miscellaneous.png",
+    "lpc_simple_staff_male.png",
+    "lpc_simple_staff_female.png",
+    "wood_iron_shields_by_themselves.png"
+  ],
+  "organized_new_unique_images": 442,
+  "exact_duplicates_against_existing": 92,
+  "exact_duplicates_within_pass5": 0,
+  "final_organized_image_files": 11501,
+  "final_unique_image_hashes": 11501,
+  "final_duplicate_hash_groups": 0,
+  "final_duplicate_extra_copies": 0,
+  "license_unverified": [
+    "weapons.zip"
+  ]
+}

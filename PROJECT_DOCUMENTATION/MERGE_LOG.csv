@@ -1,0 +1,95 @@
+source_path,status,destination_or_note
+03_shadows/lpc_shadow.png,DUPLICATE_HASH,already present in canonical library
+03_shadows/lpc_shadow_child.png,DUPLICATE_HASH,already present in canonical library
+99_source_archives/TilesDungeon.zip,ADDED,00_ORIGINAL_PACKS/audit_added/TilesDungeon.zip
+99_source_archives/submission_daneeklu.zip,ADDED,00_ORIGINAL_PACKS/audit_added/submission_daneeklu.zip
+99_source_archives/lpc_medieval_weapons.zip,ADDED,00_ORIGINAL_PACKS/audit_added/lpc_medieval_weapons.zip
+99_source_archives/weapons-extended.zip,ADDED,00_ORIGINAL_PACKS/audit_added/weapons-extended.zip
+01_characters/werewolf-alt-NESW.png,ADDED,01_CHARACTERS/werewolf-alt-NESW.png
+01_characters/werewolf-48x64.xcf,ADDED,01_CHARACTERS/werewolf-48x64.xcf
+01_characters/rabbit.png,ADDED,01_CHARACTERS/rabbit.png
+01_characters/werewolf-alt-SWEN.png,ADDED,01_CHARACTERS/werewolf-alt-SWEN.png
+01_characters/lpc minotaur complete.xcf,ADDED,01_CHARACTERS/lpc minotaur complete.xcf
+01_characters/lpc faun complete.xcf,ADDED,01_CHARACTERS/lpc faun complete.xcf
+01_characters/rabbit_reorganised.xcf,ADDED,01_CHARACTERS/rabbit_reorganised.xcf
+02_animals/ram eat.png,ADDED,10_ANIMALS/ram eat.png
+02_animals/ram_walk.png,ADDED,10_ANIMALS/ram_walk.png
+04_weapons/weapons-extended/scythe-slash-oversize.png,ADDED,04_WEAPONS/weapons-extended/scythe-slash-oversize.png
+04_weapons/weapons-extended/rapier.png,ADDED,04_WEAPONS/weapons-extended/rapier.png
+04_weapons/weapons-extended/saber.png,ADDED,04_WEAPONS/weapons-extended/saber.png
+04_weapons/weapons-extended/mace.png,ADDED,04_WEAPONS/weapons-extended/mace.png
+04_weapons/weapons-extended/glowsword_blue.png,ADDED,04_WEAPONS/weapons-extended/glowsword_blue.png
+04_weapons/weapons-extended/scythe.png,ADDED,04_WEAPONS/weapons-extended/scythe.png
+04_weapons/weapons-extended/dagger.png,ADDED,04_WEAPONS/weapons-extended/dagger.png
+04_weapons/weapons-extended/mace-slash-oversize.png,ADDED,04_WEAPONS/weapons-extended/mace-slash-oversize.png
+04_weapons/weapons-extended/CREDITS-weapons.txt,DUPLICATE_HASH,already present in canonical library
+04_weapons/weapons-extended/longsword.png,ADDED,04_WEAPONS/weapons-extended/longsword.png
+04_weapons/weapons-extended/glowsword_red.png,ADDED,04_WEAPONS/weapons-extended/glowsword_red.png
+04_weapons/LPC_Medieval_Weapons/Attribution.txt,ADDED,04_WEAPONS/LPC_Medieval_Weapons/Attribution.txt
+04_weapons/LPC_Medieval_Weapons/Female/War Axe/Hurt.png,ADDED,04_WEAPONS/LPC_Medieval_Weapons/Female/War Axe/Hurt.png
+04_weapons/LPC_Medieval_Weapons/Female/War Axe/War Axe Universal Female.png,ADDED,04_WEAPONS/LPC_Medieval_Weapons/Female/War Axe/War Axe Universal Female.png
+04_weapons/LPC_Medieval_Weapons/Female/War Axe/Walk.png,ADDED,04_WEAPONS/LPC_Medieval_Weapons/Female/War Axe/Walk.png
+04_weapons/LPC_Medieval_Weapons/Female/War Axe/Slash.png,ADDED,04_WEAPONS/LPC_Medieval_Weapons/Female/War Axe/Slash.png
+04_weapons/LPC_Medieval_Weapons/Female/Halberd/Hurt.png,ADDED,04_WEAPONS/LPC_Medieval_Weapons/Female/Halberd/Hurt.png
+04_weapons/LPC_Medieval_Weapons/Female/Halberd/Thrust.png,ADDED,04_WEAPONS/LPC_Medieval_Weapons/Female/Halberd/Thrust.png
+04_weapons/LPC_Medieval_Weapons/Female/Halberd/Walk.png,ADDED,04_WEAPONS/LPC_Medieval_Weapons/Female/Halberd/Walk.png
+04_weapons/LPC_Medieval_Weapons/Female/Halberd/Halberd Universal Female.png,ADDED,04_WEAPONS/LPC_Medieval_Weapons/Female/Halberd/Halberd Universal Female.png
+04_weapons/LPC_Medieval_Weapons/Female/Halberd/Slash.png,ADDED,04_WEAPONS/LPC_Medieval_Weapons/Female/Halberd/Slash.png
+04_weapons/LPC_Medieval_Weapons/Female/Flail/Hurt.png,ADDED,04_WEAPONS/LPC_Medieval_Weapons/Female/Flail/Hurt.png
+04_weapons/LPC_Medieval_Weapons/Female/Flail/Walk.png,ADDED,04_WEAPONS/LPC_Medieval_Weapons/Female/Flail/Walk.png
+04_weapons/LPC_Medieval_Weapons/Female/Flail/Flail Universal Female.png,ADDED,04_WEAPONS/LPC_Medieval_Weapons/Female/Flail/Flail Universal Female.png
+04_weapons/LPC_Medieval_Weapons/Female/Flail/Slash.png,ADDED,04_WEAPONS/LPC_Medieval_Weapons/Female/Flail/Slash.png
+04_weapons/LPC_Medieval_Weapons/Male/War Axe/War Axe Universal.png,ADDED,04_WEAPONS/LPC_Medieval_Weapons/Male/War Axe/War Axe Universal.png
+04_weapons/LPC_Medieval_Weapons/Male/War Axe/Hurt.png,ADDED,04_WEAPONS/LPC_Medieval_Weapons/Male/War Axe/Hurt.png
+04_weapons/LPC_Medieval_Weapons/Male/War Axe/Walk.png,ADDED,04_WEAPONS/LPC_Medieval_Weapons/Male/War Axe/Walk.png
+04_weapons/LPC_Medieval_Weapons/Male/War Axe/Slash.png,ADDED,04_WEAPONS/LPC_Medieval_Weapons/Male/War Axe/Slash.png
+04_weapons/LPC_Medieval_Weapons/Male/Halberd/Hurt.png,ADDED,04_WEAPONS/LPC_Medieval_Weapons/Male/Halberd/Hurt.png
+04_weapons/LPC_Medieval_Weapons/Male/Halberd/Thrust.png,ADDED,04_WEAPONS/LPC_Medieval_Weapons/Male/Halberd/Thrust.png
+04_weapons/LPC_Medieval_Weapons/Male/Halberd/Halberd Universal.png,ADDED,04_WEAPONS/LPC_Medieval_Weapons/Male/Halberd/Halberd Universal.png
+04_weapons/LPC_Medieval_Weapons/Male/Halberd/Walk.png,ADDED,04_WEAPONS/LPC_Medieval_Weapons/Male/Halberd/Walk.png
+04_weapons/LPC_Medieval_Weapons/Male/Halberd/Slash.png,ADDED,04_WEAPONS/LPC_Medieval_Weapons/Male/Halberd/Slash.png
+04_weapons/LPC_Medieval_Weapons/Male/Flail/Hurt.png,ADDED,04_WEAPONS/LPC_Medieval_Weapons/Male/Flail/Hurt.png
+04_weapons/LPC_Medieval_Weapons/Male/Flail/Flail Universal.png,ADDED,04_WEAPONS/LPC_Medieval_Weapons/Male/Flail/Flail Universal.png
+04_weapons/LPC_Medieval_Weapons/Male/Flail/Walk.png,ADDED,04_WEAPONS/LPC_Medieval_Weapons/Male/Flail/Walk.png
+04_weapons/LPC_Medieval_Weapons/Male/Flail/Slash.png,ADDED,04_WEAPONS/LPC_Medieval_Weapons/Male/Flail/Slash.png
+05_tiles/TilesDungeon/Corner4.png,ADDED,02_TILES_AND_TERRAIN/TilesDungeon/Corner4.png
+05_tiles/TilesDungeon/WallLeftEnd.png,ADDED,02_TILES_AND_TERRAIN/TilesDungeon/WallLeftEnd.png
+05_tiles/TilesDungeon/WallLeft.png,ADDED,02_TILES_AND_TERRAIN/TilesDungeon/WallLeft.png
+05_tiles/TilesDungeon/Corner2.png,ADDED,02_TILES_AND_TERRAIN/TilesDungeon/Corner2.png
+05_tiles/TilesDungeon/TwoSideCorner1.png,ADDED,02_TILES_AND_TERRAIN/TilesDungeon/TwoSideCorner1.png
+05_tiles/TilesDungeon/WallUp.png,ADDED,02_TILES_AND_TERRAIN/TilesDungeon/WallUp.png
+05_tiles/TilesDungeon/Tile.png,ADDED,02_TILES_AND_TERRAIN/TilesDungeon/Tile.png
+05_tiles/TilesDungeon/Wall.png,ADDED,02_TILES_AND_TERRAIN/TilesDungeon/Wall.png
+05_tiles/TilesDungeon/TwoSideCorner.png,ADDED,02_TILES_AND_TERRAIN/TilesDungeon/TwoSideCorner.png
+05_tiles/TilesDungeon/WallRightEnd.png,ADDED,02_TILES_AND_TERRAIN/TilesDungeon/WallRightEnd.png
+05_tiles/TilesDungeon/WallRight.png,ADDED,02_TILES_AND_TERRAIN/TilesDungeon/WallRight.png
+05_tiles/TilesDungeon/Corner3.png,ADDED,02_TILES_AND_TERRAIN/TilesDungeon/Corner3.png
+05_tiles/TilesDungeon/Preview.JPG,ADDED,02_TILES_AND_TERRAIN/TilesDungeon/Preview.JPG
+05_tiles/TilesDungeon/Corner1.png,ADDED,02_TILES_AND_TERRAIN/TilesDungeon/Corner1.png
+05_tiles/TilesDungeon/TwoSideCorner2.png,ADDED,02_TILES_AND_TERRAIN/TilesDungeon/TwoSideCorner2.png
+05_tiles/TilesDungeon/WallDown.png,ADDED,02_TILES_AND_TERRAIN/TilesDungeon/WallDown.png
+06_submissions/submission_daneeklu/tileset_preview.png,ADDED,12_SOURCE/submissions/submission_daneeklu/tileset_preview.png
+06_submissions/submission_daneeklu/ui_preview.png,ADDED,12_SOURCE/submissions/submission_daneeklu/ui_preview.png
+06_submissions/submission_daneeklu/readme.txt,ADDED,12_SOURCE/submissions/submission_daneeklu/readme.txt
+06_submissions/submission_daneeklu/magics_preview.gif,ADDED,12_SOURCE/submissions/submission_daneeklu/magics_preview.gif
+06_submissions/submission_daneeklu/magic/turtleshell_side.png,ADDED,12_SOURCE/submissions/submission_daneeklu/magic/turtleshell_side.png
+06_submissions/submission_daneeklu/magic/turtleshell_front.png,ADDED,12_SOURCE/submissions/submission_daneeklu/magic/turtleshell_front.png
+06_submissions/submission_daneeklu/magic/magic_torrentacle.png,ADDED,12_SOURCE/submissions/submission_daneeklu/magic/magic_torrentacle.png
+06_submissions/submission_daneeklu/magic/magic_firelion_sheet.png,ADDED,12_SOURCE/submissions/submission_daneeklu/magic/magic_firelion_sheet.png
+06_submissions/submission_daneeklu/magic/magic_snakebite_sheet.png,ADDED,12_SOURCE/submissions/submission_daneeklu/magic/magic_snakebite_sheet.png
+06_submissions/submission_daneeklu/magic/magic_firelion_big.png,ADDED,12_SOURCE/submissions/submission_daneeklu/magic/magic_firelion_big.png
+06_submissions/submission_daneeklu/magic/magic_iceshield_sheet.png,ADDED,12_SOURCE/submissions/submission_daneeklu/magic/magic_iceshield_sheet.png
+06_submissions/submission_daneeklu/tilesets/sandwater.png,ADDED,12_SOURCE/submissions/submission_daneeklu/tilesets/sandwater.png
+06_submissions/submission_daneeklu/tilesets/wheat.png,ADDED,12_SOURCE/submissions/submission_daneeklu/tilesets/wheat.png
+06_submissions/submission_daneeklu/tilesets/fence_alt.png,ADDED,12_SOURCE/submissions/submission_daneeklu/tilesets/fence_alt.png
+06_submissions/submission_daneeklu/tilesets/plowed_soil.png,ADDED,12_SOURCE/submissions/submission_daneeklu/tilesets/plowed_soil.png
+06_submissions/submission_daneeklu/tilesets/reed.png,ADDED,12_SOURCE/submissions/submission_daneeklu/tilesets/reed.png
+06_submissions/submission_daneeklu/tilesets/sand.png,ADDED,12_SOURCE/submissions/submission_daneeklu/tilesets/sand.png
+06_submissions/submission_daneeklu/tilesets/tallgrass.png,ADDED,12_SOURCE/submissions/submission_daneeklu/tilesets/tallgrass.png
+06_submissions/submission_daneeklu/tilesets/farming_fishing.png,ADDED,12_SOURCE/submissions/submission_daneeklu/tilesets/farming_fishing.png
+06_submissions/submission_daneeklu/tilesets/fence.png,ADDED,12_SOURCE/submissions/submission_daneeklu/tilesets/fence.png
+06_submissions/submission_daneeklu/tilesets/youngwheat.png,ADDED,12_SOURCE/submissions/submission_daneeklu/tilesets/youngwheat.png
+06_submissions/submission_daneeklu/tilesets/plants.png,ADDED,12_SOURCE/submissions/submission_daneeklu/tilesets/plants.png
+06_submissions/submission_daneeklu/ui/scrollsandblocks.png,ADDED,12_SOURCE/submissions/submission_daneeklu/ui/scrollsandblocks.png
+06_submissions/submission_daneeklu/character/grab_sheet.png,ADDED,12_SOURCE/submissions/submission_daneeklu/character/grab_sheet.png
+06_submissions/submission_daneeklu/character/sword_sheet_128.png,ADDED,12_SOURCE/submissions/submission_daneeklu/character/sword_sheet_128.png

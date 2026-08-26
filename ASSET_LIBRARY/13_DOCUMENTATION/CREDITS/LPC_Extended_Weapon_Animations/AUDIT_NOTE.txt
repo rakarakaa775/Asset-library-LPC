@@ -1,0 +1,9 @@
+Source: weapons-extended-layers/CREDITS-weapons.txt
+Audit rule:
+- Entire submission: CC-BY-SA 3.0.
+- Individual files have the per-file licenses stated in CREDITS-weapons.txt.
+- scythe-slash-oversize.png and scythe.png: CC0.
+- glowsword_blue.png / glowsword_red.png: CC-BY-SA 3.0 / GPL 3.0.
+- longsword.png, mace-slash-oversize.png, mace.png, rapier.png, dagger.png: CC-BY-SA 3.0 / GPL 3.0, DRM waived where stated.
+- saber.png: CC-BY-SA 3.0.
+Do not collapse these into one license when using individual files.

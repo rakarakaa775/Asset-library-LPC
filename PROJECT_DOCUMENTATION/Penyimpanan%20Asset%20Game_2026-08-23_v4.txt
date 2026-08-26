@@ -1,0 +1,38 @@
+ASSET LIBRARY — UPDATE 2026-08-23 PASS 3
+
+Status:
+- Added current upload batch to ASSET_LIBRARY_FINAL_2026-08-23_v4.
+- Original ZIP sources preserved in 00_ORIGINAL_PACKS.
+- XCF/PSD master/source files preserved in 12_SOURCE.
+- Exact duplicate images were not added.
+- Existing duplicate image files in 14_DUPLICATES/Exact were removed; audit notes retained.
+
+New verified groups:
+1. taur_walk.png — Wartotaur (4 directions), Evert / Redshrike concept, CC-BY 3.0 + OGA-BY 3.0.
+2. statues-fountains-0.6.zip — Statues & Fountains Collection, CC-BY-SA 3.0 collection with per-file licenses in sources.md.
+3. paper-popup-background.zip + small-banner.zip — Paper Popup Backgrounds, ztn, CC-BY 3.0; texture attribution to darkwood67.
+4. map.png — Map, yd, CC0.
+5. NewCampFire.png + NewerCampFire.png — Zabin and Jetrel, CC-BY-SA 3.0.
+6. scene.png, wall.png, tree.png, tree2.png, tile_grass.png, tile_dirt.png, tile_pavement.png — top-down RPG mockup scene by Drummyfish; source page says attribution is not required, credit is optional, and does not state a formal License(s) field.
+
+Missing/unverified attribution register retained for earlier assets:
+- barel.png
+- Forest_1.png
+- goat.png
+- lpc_c.nilsson_flags.png (provisional)
+
+Files inside the final library:
+- 13_DOCUMENTATION/CREDITS/CREDITS_2026-08-23_PASS3.md
+- 13_DOCUMENTATION/CREDITS/CREDITS_MISSING_OR_UNVERIFIED_2026-08-23.md
+- 13_DOCUMENTATION/DUPLICATE_REMOVAL_2026-08-23_PASS3.csv
+- 13_DOCUMENTATION/AUDIT_PASS3_2026-08-23.json
+- 13_DOCUMENTATION/ASSET_OCCURRENCES_2026-08-23_PASS3.csv
+- 13_DOCUMENTATION/SOURCE_FILES_2026-08-23_PASS3.csv
+
+Authoritative source pages used for Pass 3:
+- https://opengameart.org/content/wartotaur-4-directions
+- https://opengameart.org/node/81798
+- https://opengameart.org/content/paper-popup-backgrounds
+- https://opengameart.org/content/map
+- https://opengameart.org/content/camp-fire-animation-for-rpgs-finished
+- https://opengameart.org/content/top-down-rpg-mockup-scene

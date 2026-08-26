@@ -1,0 +1,29 @@
+{
+  "checkpoint": "PASS6",
+  "date": "2026-08-23",
+  "new_zip_uploads": [
+    "lpc_spear_shovel_reworked.zip",
+    "lpc_smash_weapons.zip"
+  ],
+  "new_standalone_uploads": [
+    "male_stand_mini64.png",
+    "male_stand_mini32.png",
+    "lpcfemalegoldenboots.png",
+    "lpcfemalegoldengloves.png",
+    "lpcfemalegoldengreaves.png",
+    "lpcfemalegoldenhelm.png",
+    "lpcfemalegoldenplate.png",
+    "lpcfemalegoldenspaulders.png",
+    "lpcmalegoldenboots.png",
+    "lpcmalegoldengloves.png",
+    "lpcmalegoldengreaves.png",
+    "lpcmalegoldenhelm.png",
+    "lpcmalegoldenplate.png"
+  ],
+  "organized_new_assets": 27,
+  "preview_only": 1,
+  "exact_duplicates_against_v6": 0,
+  "exact_duplicates_within_pass6": 0,
+  "current_pass6_credits_missing_or_unverified": 0,
+  "historical_missing_or_unverified_carried_forward": 8
+}

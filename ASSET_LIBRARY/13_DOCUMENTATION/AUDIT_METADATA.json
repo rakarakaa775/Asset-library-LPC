@@ -1,0 +1,25 @@
+{
+  "session_rule": "Fresh grouping; prior source classifications not used.",
+  "uploaded_items": [
+    "Charakter.zip",
+    "credits.csv",
+    "expansion_pack-0.04.zip",
+    "lpc_long_straight_hair.zip",
+    "lpc_male_animations_2026-07-21T04-36-14.zip",
+    "lpc_entry.zip"
+  ],
+  "credit_file_received": true,
+  "credit_file": "13_DOCUMENTATION/CREDITS/credits.csv",
+  "credit_handling": "Stored separately in documentation; not mixed into asset folders.",
+  "license_evidence_from_uploaded_files": {
+    "Charakter.zip": "credits.csv/credits.txt state OGA-BY 3.0, CC-BY-SA 3.0, GPL 3.0 for listed files.",
+    "lpc_male_animations": "embedded credits state OGA-BY 3.0, CC-BY-SA 3.0, GPL 3.0 for listed male light body/head files.",
+    "lpc_entry": "README identifies PNG sprite sheets and XCF source images; README itself does not provide a complete license statement."
+  },
+  "duplicate_findings": [
+    "Charakter/lpc_long_straight_hair(1).zip is exact duplicate of Charakter/lpc_long_straight_hair.zip",
+    "Charakter/cape_white(1).png is exact duplicate of Charakter/cape_white.png",
+    "Charakter/teal_tunic(1).png is exact duplicate of Charakter/teal_tunic.png"
+  ],
+  "caution": "No new license was inferred for files without explicit license evidence in the uploaded material."
+}

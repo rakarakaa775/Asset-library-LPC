@@ -1,0 +1,1307 @@
+[
+  {
+    "path": "13_DOCUMENTATION/AUDIT_METADATA.json",
+    "size": 1294,
+    "sha256": "28553e67695b3b6554c0aebb43958a9c60e6e3b8be5a5ad1e7042c8e47d35b98"
+  },
+  {
+    "path": "14_DUPLICATES/Exact/teal_tunic(1).png",
+    "size": 20830,
+    "sha256": "2106bf5f85ae6843146651359a6a9b26d3cf6d673a47df24ee3d0c2be321c221"
+  },
+  {
+    "path": "14_DUPLICATES/Exact/cape_white(1).png",
+    "size": 17290,
+    "sha256": "daf187bd3e24eb3677b00febfe8a63d70c8e35e88bc4f0acddacb417de075158"
+  },
+  {
+    "path": "14_DUPLICATES/Exact/lpc_long_straight_hair(1).zip",
+    "size": 691415,
+    "sha256": "4548a14f81c7a8583ff5e08eefcde676e942b5e4965af837b79ac20796971ade"
+  },
+  {
+    "path": "12_SOURCE/GIMP_XCF/Expansion_Pack/skeleton_sprites_with_bow.xcf",
+    "size": 1146261,
+    "sha256": "2c59693dae25ef9311c3864a8979ae76f26756d224de64effa57cab68d7d7297"
+  },
+  {
+    "path": "12_SOURCE/GIMP_XCF/Expansion_Pack/male_slash_swords.xcf",
+    "size": 1702897,
+    "sha256": "7eb8e1a4fed356dbcffd6ad342cd5667eda3e4be50835f88ded0b5aa73e310da"
+  },
+  {
+    "path": "12_SOURCE/GIMP_XCF/Expansion_Pack/male_thrust_spears.xcf",
+    "size": 2087918,
+    "sha256": "9d3f5e7238567e36dbaedf0d898aa26c7fe1bd207fe33d89426ce0413b30e524"
+  },
+  {
+    "path": "12_SOURCE/GIMP_XCF/Expansion_Pack/combat_dummy_with_death.xcf",
+    "size": 110002,
+    "sha256": "495711537915e1b031023fb4d5298f1e4763c934a722c165460895f61d72a531"
+  },
+  {
+    "path": "12_SOURCE/GIMP_XCF/LPC_Entry/combat_dummy_sprites.xcf",
+    "size": 40633,
+    "sha256": "6309f4fcadcbf09b5e9cded08db2b7898951549e05a5fdcabda66dec8480a7e9"
+  },
+  {
+    "path": "12_SOURCE/GIMP_XCF/LPC_Entry/male_sprites.xcf",
+    "size": 7361417,
+    "sha256": "a9eb26c3c120a8a2e3e2d7ff6faff490ed9fc5bbb617ec5366f8d5f5fc7a1937"
+  },
+  {
+    "path": "12_SOURCE/GIMP_XCF/LPC_Entry/skeleton_sprites.xcf",
+    "size": 450595,
+    "sha256": "6df9f393627bb2fd5b46731a848dd44cc6feb237ff891010f23f897cb33d048b"
+  },
+  {
+    "path": "05_OBJECTS/Armor_and_Clothing/cape_white.png",
+    "size": 17290,
+    "sha256": "daf187bd3e24eb3677b00febfe8a63d70c8e35e88bc4f0acddacb417de075158"
+  },
+  {
+    "path": "05_OBJECTS/Armor_and_Clothing/legs_skirt_female.png",
+    "size": 23834,
+    "sha256": "35b9677e41ac6748f7a2276fd560dc6e4a6ef1664d3dc83000e6bd238c4807b4"
+  },
+  {
+    "path": "05_OBJECTS/Armor_and_Clothing/maroon_sleeveless.png",
+    "size": 15758,
+    "sha256": "250662103722e2b281720111f7e7d26bd500e91e9052aec5f62dbf024d0ddb72"
+  },
+  {
+    "path": "05_OBJECTS/Armor_and_Clothing/eyes.png",
+    "size": 343,
+    "sha256": "c9c9754a9bfbed7a0b12704035fa5b20453923c45a28d621c53ccf6ce486b996"
+  },
+  {
+    "path": "05_OBJECTS/Armor_and_Clothing/teal_tunic(1).png",
+    "size": 20830,
+    "sha256": "2106bf5f85ae6843146651359a6a9b26d3cf6d673a47df24ee3d0c2be321c221"
+  },
+  {
+    "path": "05_OBJECTS/Armor_and_Clothing/lpc_shadow_child.png",
+    "size": 5196,
+    "sha256": "9a85199c68ba53e0e9f8377988889cf47e8da440b754803c8da4c06ad0275b0f"
+  },
+  {
+    "path": "05_OBJECTS/Armor_and_Clothing/cape_white(1).png",
+    "size": 17290,
+    "sha256": "daf187bd3e24eb3677b00febfe8a63d70c8e35e88bc4f0acddacb417de075158"
+  },
+  {
+    "path": "05_OBJECTS/Armor_and_Clothing/capeclip_blue.png",
+    "size": 10541,
+    "sha256": "51f1b02355a428caf60bb94ff0fbe7c17dabbabecbafa34127fcbd21fc9866ee"
+  },
+  {
+    "path": "05_OBJECTS/Armor_and_Clothing/trimcape_whiteblue.png",
+    "size": 17198,
+    "sha256": "71ebe45a264e1fb91720c3af6136fb9fcb54034ac77df7fbafd9983df3c598fb"
+  },
+  {
+    "path": "05_OBJECTS/Armor_and_Clothing/elvenears_light.png",
+    "size": 6359,
+    "sha256": "e9d3fdbe5027c35bccda9f0751cb605d34ee3d628a93d24842b3203c6597ae48"
+  },
+  {
+    "path": "05_OBJECTS/Armor_and_Clothing/wood_iron_shields_by_themselves.png",
+    "size": 4976,
+    "sha256": "122963e0e8d98d587a1587ce4e10b110e9489fce6f61c44bd305d60c4a806f05"
+  },
+  {
+    "path": "05_OBJECTS/Armor_and_Clothing/lpc_shadow.png",
+    "size": 8932,
+    "sha256": "28aefbebf279dcd4086aa669c3dc8877597c4091b93e4a967d936ebdb57cdabd"
+  },
+  {
+    "path": "05_OBJECTS/Armor_and_Clothing/capetie_white.png",
+    "size": 11702,
+    "sha256": "a1ee538adab7b056910f059d033317b55ef87b0315ef0b349ed6911068b3a1da"
+  },
+  {
+    "path": "05_OBJECTS/Armor_and_Clothing/teal_tunic.png",
+    "size": 20830,
+    "sha256": "2106bf5f85ae6843146651359a6a9b26d3cf6d673a47df24ee3d0c2be321c221"
+  },
+  {
+    "path": "05_OBJECTS/Weapons/weapons-extended-layers.zip",
+    "size": 47404,
+    "sha256": "72c2d790033afda9cadc22cecb92fe613427677c12cbe17670385b145be00f79"
+  },
+  {
+    "path": "05_OBJECTS/Weapons/lpc-weapons-extended-v2.zip",
+    "size": 165199,
+    "sha256": "0961385fa45e871c92b4020245769dc273bcfd2b1cbd0630135436054a8095c9"
+  },
+  {
+    "path": "05_OBJECTS/Weapons/lpc-more-weapons.zip",
+    "size": 102171,
+    "sha256": "b27a51b86cdc0cddf13dfc259fb2c54b5fb4b26bb47d0d15f8e63a723d584da9"
+  },
+  {
+    "path": "09_ANIMATIONS/LPC_Male/metadata.json",
+    "size": 497,
+    "sha256": "31d5945ca71be181ad8ed727226a40b332fe0cb22342f52c5a8605efc368d8f1"
+  },
+  {
+    "path": "09_ANIMATIONS/LPC_Male/character.json",
+    "size": 2506,
+    "sha256": "2145fc9607279e753c9dc572fd25508dd333f41c22214dd0fa9a76d0dcd3ee8a"
+  },
+  {
+    "path": "09_ANIMATIONS/LPC_Male/credits.csv",
+    "size": 1413,
+    "sha256": "ecc6e38c609227bffa6897d61c93804a7b5bf5eb8dbcb9e10212356127395f66"
+  },
+  {
+    "path": "09_ANIMATIONS/LPC_Male/credits.txt",
+    "size": 1570,
+    "sha256": "5344206e2af91731bd47d24dc609af59dca985718cdff077c00d3e110d4bd746"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Long_Straight_Hair/previewx2.png",
+    "size": 40449,
+    "sha256": "f81bb8afa5bb901f3d8d64507f856c48574cbd1674970b212bc091074edee781"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Long_Straight_Hair/preview.png",
+    "size": 37110,
+    "sha256": "0a56ebb49bd5f369b3f96655b644cb251a4acd3256ceb74c295a28a6ae8bd881"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/README",
+    "size": 2142,
+    "sha256": "a327e8e41290c5601230f5111821e7a0aa9929fe45b2edd2bde1044e56f4bdd4"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Character_Pack/red_orc.png",
+    "size": 88461,
+    "sha256": "1d2808e847909ed65b02042accd2a03c0196792fc192c2e29f8827167f11e9f8"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Character_Pack/expansion_pack-0.04.zip",
+    "size": 1119984,
+    "sha256": "d36aae0085ecc1ca467a0957bc12fd9b3f1e147836d7ecf623685aae6df7d77c"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Character_Pack/Expressions.png",
+    "size": 1969,
+    "sha256": "54dde0e631a1fbe96cee23059436d8f3b6f5154ff95f9ec8590949f133bab7c3"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Character_Pack/lpcfemalelight.png",
+    "size": 76844,
+    "sha256": "7ad67d78c3955b4f9d6088c17a514c394b1831d369e720e0c2861b3e4d16cfda"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Character_Pack/ruby-red.png",
+    "size": 29101,
+    "sha256": "2968af50ba0f3e38e0e778f97116ed0c7d594a9d2916dbaae47509f9b0622719"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Character_Pack/Expansion_Pack/CHANGELOG",
+    "size": 310,
+    "sha256": "caa3fbe60fb58bd2bfdf7247c58412dcc5cdc054e7aba23a02f6021642bed482"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Character_Pack/Expansion_Pack/README",
+    "size": 182,
+    "sha256": "0e54856bc9df8f96add2c876af9730496563218bbb254a769150506ade84a7c2"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Character_Pack/Expansion_Pack/examples/slash_longsword.gif",
+    "size": 309139,
+    "sha256": "2891b963d827509c3f7602ad7b845c04643a49348773bd4cdd030fc645f8c0ac"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Character_Pack/Expansion_Pack/examples/slash_shield.gif",
+    "size": 13551,
+    "sha256": "18b823931b7669f5a647ae0a975b49eefb68cb12a4287e37daee48158a791012"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Character_Pack/Expansion_Pack/examples/skeleton_bow.gif",
+    "size": 48862,
+    "sha256": "d7e5caff0db1bfd3b96c16a9cc903f47d3c50b2dd934469ae06cedb233557f60"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Character_Pack/Expansion_Pack/examples/thrust_longer_spear.gif",
+    "size": 395134,
+    "sha256": "3aa6b0b33b356ebf6cba27c38143592a4ae2864445868f66c355910192aac828"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Character_Pack/Expansion_Pack/examples/slash_rapier.gif",
+    "size": 308429,
+    "sha256": "2e1eb6b931e2f1bdfbbe1f9d0255dfc96d7258079b80e894f5ecd458ccba548e"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Character_Pack/Expansion_Pack/examples/combat_dummy_death.gif",
+    "size": 29544,
+    "sha256": "1d92318cb884b4e5a164f6a829d3651e19fa111bf05da65206e2fa8eb8ef304a"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Character_Pack/Expansion_Pack/png/192x192/thrust/WEAPON_long_spear.png",
+    "size": 13889,
+    "sha256": "4720083cbf024918d701243a4150844818e773a597fb7f60800eb4f3ae499abd"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Character_Pack/Expansion_Pack/png/192x192/slash/WEAPON_longsword.png",
+    "size": 13982,
+    "sha256": "3f07f5b09df59fba0748dc2160fe3baa6ea91b444fad626042434da64642c79f"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Character_Pack/Expansion_Pack/png/192x192/slash/WEAPON_rapier.png",
+    "size": 11029,
+    "sha256": "3f243fc9975b2a6e405276105a196c002860f48634e42f794fcc225061ef1da6"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Character_Pack/Expansion_Pack/png/64x64/bow/BEHIND_quiver.png",
+    "size": 3263,
+    "sha256": "dbb9b015c27f9cf24f8a17f8146b59a01804880dcc3e8a127e211ed2a8732351"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Character_Pack/Expansion_Pack/png/64x64/bow/BODY_skeleton.png",
+    "size": 24862,
+    "sha256": "c14eb3debfffa164c83f9cec00c4b89aaca6a64076e2e274f52439de6cb4876e"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Character_Pack/Expansion_Pack/png/64x64/combat_dummy/BODY_death.png",
+    "size": 14182,
+    "sha256": "31652cebdd94e0df78df60d32856a8eda319c0f8d89d69edc0b502eb1f5b8b6b"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Character_Pack/Expansion_Pack/png/64x64/slash/WEAPON_shield_cutout_chain_armor_helmet.png",
+    "size": 5925,
+    "sha256": "48c164a849569b05f688fa6c88e09f5a09855fcaa8baf54386ed858dce4c9642"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Character_Pack/Expansion_Pack/png/64x64/slash/WEAPON_shield_cutout_body.png",
+    "size": 6155,
+    "sha256": "e4e9b67e7c20865e1c40a4cd2800a16b93120e9314212733a82bf154e9b6ab40"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/examples/plate_armor.gif",
+    "size": 100143,
+    "sha256": "9ebd91042eac431b49d35881c4866a1e5b48b5f362470dbf8ff805ba188bc9e2"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/examples/leather_armor.gif",
+    "size": 179372,
+    "sha256": "95519c8a8cdff2f62f0c1f168267b3f078a03ec380e803319e57274d5914d743"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/examples/chain_armor.gif",
+    "size": 182317,
+    "sha256": "96dee0f2756342418ea424345a0999c51904b11235bac5c4a45cbbe85b8c7da1"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/examples/naked_thrust_staff.gif",
+    "size": 13676,
+    "sha256": "39e9ce7aada76bb630916486d4daa6a753006301a9e46e8cdbaf7a3913e24e4a"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/examples/chain_armor_bandit.gif",
+    "size": 159811,
+    "sha256": "e03a48a1641336f68e6d5202d455b8746024004f5bbc4e60e594ca28ebf6d0c7"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/examples/robed_skeleton_spellcast.gif",
+    "size": 18436,
+    "sha256": "70d820b8331633a2e7fcaec11d1583bfe796c0bd89309f3be7a9131f2e211de8"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/examples/combat_dummy.gif",
+    "size": 13944,
+    "sha256": "0e95f7d63fe58679320904771ae7082bce872912e14c9c21a10c1865894beb62"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/examples/skeleton.gif",
+    "size": 45331,
+    "sha256": "5bf87605fb430f0d8703df5edea685458144440c8285ea00bd292ba00c5c6098"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/examples/simple_clothes.gif",
+    "size": 164837,
+    "sha256": "d6c7eec91291753f413915e580f430de93ef4e367e33ade1e2f07b6cc2ee6a02"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/examples/naked_bowman.gif",
+    "size": 35314,
+    "sha256": "6213a3d69dd968b03548161cb62eb3bd321adc9621c4ad3e11e76c96cb458ccd"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/examples/dark_skinned_knight.gif",
+    "size": 160220,
+    "sha256": "cc1cbaed8dbae0aff59ada9aca33e00050f10cd3a7e329315c8425b611cbbd09"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/examples/mixed_metal.gif",
+    "size": 175027,
+    "sha256": "0314bc6a78dcbaf602c471cbd5d3cfb643303933f688c5c90bc449ae7e91f4fe"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/examples/armored_skeleton_slash.gif",
+    "size": 17728,
+    "sha256": "5aa76b6ce8e30e4b0f6334bf113f7223bd9a63ed73aca411320d1a037ac50667"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/examples/robin_hoodlike.gif",
+    "size": 166956,
+    "sha256": "0a3cfe492c416ac9fa4e038b5f5946537cfb8d67773d5c6a5b357c19b1fc5018"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/examples/orange_recolor_monk.gif",
+    "size": 108766,
+    "sha256": "1a92c793d6fbf09879b93f981fe67750107388ee70fda19295b91b1eb37986f5"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/examples/robe.gif",
+    "size": 119382,
+    "sha256": "56140087a6b903dc6fbdffddf33f122c6100d4fad914933c82be7b384d97e34d"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/bow/LEGS_robe_skirt.png",
+    "size": 5033,
+    "sha256": "76777a57d77d6484c3003676c1cbbd7d6bd6d0b0c369438bc3a21ad80609d1df"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/bow/TORSO_leather_armor_shirt_white.png",
+    "size": 9857,
+    "sha256": "f278c8966b97c4d1dddbf457d38e0db22551f57bbc5647e9525cd367b776f88a"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/bow/TORSO_chain_armor_jacket_purple.png",
+    "size": 6560,
+    "sha256": "392a3f28d5f53d77dcc0c81922ebed8fa84685f769ea70a413e92671d8ab1035"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/bow/HANDS_plate_armor_gloves.png",
+    "size": 6063,
+    "sha256": "1f75478fa4dc870622bded3649a1416acb84a145ce7f85a8ce9bde579719b604"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/bow/TORSO_leather_armor_bracers.png",
+    "size": 3399,
+    "sha256": "004e11c9cd2b590977e852582b9584975682ca9cb714b1d28d41fe4e4c062eb9"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/bow/TORSO_plate_armor_arms_shoulders.png",
+    "size": 10175,
+    "sha256": "9c045de9e1459967f0f6592c3c1f29d533ffc5e56697fbd8cafeb28b8aad739b"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/bow/FEET_plate_armor_shoes.png",
+    "size": 4065,
+    "sha256": "c0daacd7d000440d912c3325873c29e3a33472bf43f61bb75b75f3baa5241f18"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/bow/FEET_shoes_brown.png",
+    "size": 3459,
+    "sha256": "44f70b13d77cf97d07e0aa0ad0395026adfd3d75d68797c37a2ba8f42fc566f3"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/bow/TORSO_robe_shirt_brown.png",
+    "size": 9103,
+    "sha256": "51d0689be515456c732fb191c961b8599c344de1ae5e0f776e31311ce6432061"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/bow/HEAD_plate_armor_helmet.png",
+    "size": 6003,
+    "sha256": "f9c500b7cf9469a24724887f76834a79eec32f62f8babc859574f5145c0d9f99"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/bow/BELT_rope.png",
+    "size": 2251,
+    "sha256": "d51c86b465f3705bd6b3ff23b8f4af0850bc94a3fd239d693dce1afec8dbe285"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/bow/HEAD_hair_blonde.png",
+    "size": 6423,
+    "sha256": "2f6f79b3aa7e6eab7d9ce21f0c17cde54b7ca54bb4c69d1a77ede0ed84e09a13"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/bow/TORSO_leather_armor_shoulders.png",
+    "size": 2896,
+    "sha256": "29a5d7f19cebe860bb384f16533f6024c84059af565c951cfb493f0b365fbeab"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/bow/HEAD_chain_armor_hood.png",
+    "size": 8149,
+    "sha256": "9c18977c54eb57dbcc005990496c8734a7f57df1976fd47413d4bb64d3606729"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/bow/LEGS_pants_greenish.png",
+    "size": 4161,
+    "sha256": "cbe30c2191a5042f6b732d6df2042e350ef8848b62f8c6dfd643842a2de00f77"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/bow/TORSO_chain_armor_torso.png",
+    "size": 19381,
+    "sha256": "52eb6d2a32c292152c29d645487b636f06b061b83c3df444fc89010570120230"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/bow/HEAD_chain_armor_helmet.png",
+    "size": 5922,
+    "sha256": "bbba3f8028155e15da77e85faed927a7400fd0fad1d536e4775351fd77a27ba5"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/bow/LEGS_plate_armor_pants.png",
+    "size": 4818,
+    "sha256": "4771afbc6c9e47dddf952ed9dab302349cc72389228c08fd092da839b6f51039"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/bow/WEAPON_arrow.png",
+    "size": 2599,
+    "sha256": "35833d5ff570c73638d87672456a3bbc952d0d147697576bf0f15829fded4f6b"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/bow/BODY_animation.png",
+    "size": 17489,
+    "sha256": "a6df0583be6e5b96da0e60bd0e4704a3f486308a342b08095d20cacc3e6c9be2"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/bow/WEAPON_bow.png",
+    "size": 6752,
+    "sha256": "f6a2da02fb6dc4f95dec6fe512883e895ff28f1c41c5655545688702047b7a2c"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/bow/HEAD_robe_hood.png",
+    "size": 8128,
+    "sha256": "92191ac5202b0082c2b662bf66966ba2410b87fe0cd7c0fdfc8e2a757e89de72"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/bow/TORSO_plate_armor_torso.png",
+    "size": 6755,
+    "sha256": "06893c40c1f64639d7bde18b6f7be6fff53c847427a4d701fc70681749d081bc"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/bow/BELT_leather.png",
+    "size": 2588,
+    "sha256": "94e3b634ea157110fb871e16bf19182c779352dbcf42db488eb7368eb8ea32de"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/bow/HEAD_leather_armor_hat.png",
+    "size": 5204,
+    "sha256": "460602aab0813066f2ce0124cae7ad4f36cdfa7fe1ec100a59e47fcde7a49b98"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/bow/TORSO_leather_armor_torso.png",
+    "size": 6411,
+    "sha256": "dc953c8d7629e44fb21975e082572f4713624aab5807010f77d09403dcc397ef"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/thrust/LEGS_robe_skirt.png",
+    "size": 4000,
+    "sha256": "20ea4f3960c483598680bb03b8de70d775de2fbfe05829a1f392b66522325473"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/thrust/TORSO_leather_armor_shirt_white.png",
+    "size": 6411,
+    "sha256": "16e3776fa6bb5564802738bcc03859365392b72b4da57f61ffb0d16fe9b0ba10"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/thrust/TORSO_chain_armor_jacket_purple.png",
+    "size": 5703,
+    "sha256": "f660a0449e8d4fe941265bbf94d84fc4436f943960908411798e0e9c538836e9"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/thrust/HANDS_plate_armor_gloves.png",
+    "size": 4172,
+    "sha256": "c60b2561d37310d2638f7a5c2a5922151b356a156dfa7309023cc2b058f753d8"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/thrust/TORSO_leather_armor_bracers.png",
+    "size": 2018,
+    "sha256": "04ca3a466a4bf327d7d47ce104948ddd218a3e3eae612b0df1c43c2ab7fcd69d"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/thrust/TORSO_plate_armor_arms_shoulders.png",
+    "size": 5941,
+    "sha256": "d50c0e9b2d4eabc4f718049d74678cdfbf23f7c8e33460461385b5f13bc13dd3"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/thrust/FEET_plate_armor_shoes.png",
+    "size": 3430,
+    "sha256": "ceaf0222e2dbdcacb882b911542ba1828a103fce880e60d8d8c09d390475eb99"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/thrust/WEAPON_staff.png",
+    "size": 5708,
+    "sha256": "d3585fd9e5891d0232c7275039bcce6a7d5612a699aaf4f33699228fad9ba47a"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/thrust/FEET_shoes_brown.png",
+    "size": 2646,
+    "sha256": "867dec029bc746f5b4f3db160c2537e97bb180ee9fca5ffb21e95e304cd3751c"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/thrust/TORSO_robe_shirt_brown.png",
+    "size": 6450,
+    "sha256": "8ddcf05d902bf986333178b51a7f23fe51d459851cfe096e3e3ab2ffbe32de02"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/thrust/HEAD_plate_armor_helmet.png",
+    "size": 5080,
+    "sha256": "a14e2064b2a5d37f4c08d9cfc576aacfa6757089e9bd3bdb2f0d87353ecc0fa8"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/thrust/BELT_rope.png",
+    "size": 1872,
+    "sha256": "114eb8e7d21ee6abbad006d89428465e5a471229bf076e30ba2c190415804d86"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/thrust/HEAD_hair_blonde.png",
+    "size": 5933,
+    "sha256": "bd0c76922f93f924786fbc8ed6ee835c06c86461599865681d0d6fcdfad2db20"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/thrust/TORSO_leather_armor_shoulders.png",
+    "size": 1995,
+    "sha256": "4978184001686810756f272ee760f914bf7e94dc049923d6c49f8a1bd01e1721"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/thrust/BEHIND_quiver.png",
+    "size": 2753,
+    "sha256": "1b276447609ad45a354b8b96b0358ca9bef55ac341975fb4e7d93fa840a952e4"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/thrust/HEAD_chain_armor_hood.png",
+    "size": 5937,
+    "sha256": "4499177804d008f27c5249353735dd4b7af66eebdf73c164fc4eecef72eb92bb"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/thrust/WEAPON_spear.png",
+    "size": 3821,
+    "sha256": "85451f224fbf6b096da6c1a8fa298f3f50c1042ff011b19149408180226d6345"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/thrust/LEGS_pants_greenish.png",
+    "size": 3704,
+    "sha256": "6fade0c077907fb579848a0069a3ced1d364f2ca171a029e488ccecd56940c84"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/thrust/WEAPON_shield_cutout_chain_armor_helmet.png",
+    "size": 6476,
+    "sha256": "b2ffdc64f802e6699532d0a25ee7f51f59bc4571517ec520a38675a5c1296f7e"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/thrust/TORSO_chain_armor_torso.png",
+    "size": 15602,
+    "sha256": "2c5be4f1db96a9b87de5b4ab93244ec05b2cebfa3d2bfafdb4f6c34cf63eba43"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/thrust/HEAD_chain_armor_helmet.png",
+    "size": 5087,
+    "sha256": "973005166a370ac8bd2ed8963ba4b32832df01b5dd55d6a8e873d6610e977348"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/thrust/LEGS_plate_armor_pants.png",
+    "size": 4406,
+    "sha256": "217dc32168964d85fdf7a6de16381dd9ca17c7d28cdf71d5837b6fdcae0a5fe8"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/thrust/BODY_animation.png",
+    "size": 13497,
+    "sha256": "15fb94e307658bf73a29dbe68bb84d7f6b8eb4944cdff9d0d3177966cb33e6c0"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/thrust/HEAD_robe_hood.png",
+    "size": 6474,
+    "sha256": "01842fcded0828c169f0bad81059afe2bcd505c7d56a0a2188c7f4de9cda760d"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/thrust/WEAPON_shield_cutout_body.png",
+    "size": 6697,
+    "sha256": "ba1fb51a0f0d9dfadebd7e1013a91bb7e6e92f6b96ec0931cdb902be21d42fdc"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/thrust/TORSO_plate_armor_torso.png",
+    "size": 5111,
+    "sha256": "4fff9c297a1fa181e3738c256a485b916b88b02db25a0c5548a96116aaf5e1dd"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/thrust/BELT_leather.png",
+    "size": 2204,
+    "sha256": "17f8810200ac3a9f0db68bf3caa16a54e6dca557b9dfdbbb3c2feb50e33f77bb"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/thrust/HEAD_leather_armor_hat.png",
+    "size": 4436,
+    "sha256": "e0ba11768bce019e0eb4667e74eac0ea8c9fb45050cd43b10006d3db4b50b291"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/thrust/TORSO_leather_armor_torso.png",
+    "size": 5311,
+    "sha256": "8b4c561e0471db6c20d4df6e48f4c8cbfd18120273a61deab465c43ebf511094"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/walkcycle/LEGS_robe_skirt.png",
+    "size": 6702,
+    "sha256": "b7145329dfa40b52b30d1df765a6a2caeff60bf91f98aab45c8a06190d1710e2"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/walkcycle/TORSO_leather_armor_shirt_white.png",
+    "size": 6213,
+    "sha256": "b77ab473a38b2d0339bed070219c04d0d31667900054b0c898125070768e9bec"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/walkcycle/TORSO_chain_armor_jacket_purple.png",
+    "size": 5754,
+    "sha256": "5badf85ca2227ea9b09268e9faebdf363450998bacb773580eef808cd1c00e00"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/walkcycle/HANDS_plate_armor_gloves.png",
+    "size": 3460,
+    "sha256": "063f63e7296018c7019c8cb5894a431a11e7b1e7bf65447e99d9b7d37c62bbfb"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/walkcycle/TORSO_leather_armor_bracers.png",
+    "size": 1902,
+    "sha256": "1acc8eaac32e33b60c8eb551b322dff0b84aaf35a64e57303ce933e2e8e15c19"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/walkcycle/TORSO_plate_armor_arms_shoulders.png",
+    "size": 5230,
+    "sha256": "aae048fb0e850b1772cf039d9565a9501cee8ef0a6b8cbd8344807431faa53f9"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/walkcycle/FEET_plate_armor_shoes.png",
+    "size": 5870,
+    "sha256": "d269419fdd1dd2e60247072c872fa7c7a4b912908a0d10ad81c35d318eddd88b"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/walkcycle/FEET_shoes_brown.png",
+    "size": 5102,
+    "sha256": "c3a1e902b55a9133979af74121deef3185cabfc68fa92d0deaa35c159dcdb5e6"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/walkcycle/TORSO_robe_shirt_brown.png",
+    "size": 5851,
+    "sha256": "05520db7b4984606423e4cf22f65036762188b173ce7eb6310b84a184c9e9f25"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/walkcycle/HEAD_plate_armor_helmet.png",
+    "size": 5527,
+    "sha256": "d44e5b31e5c3ce6152a8342a4c136501066e2cac89f3c24b215bc3ca90f85807"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/walkcycle/BELT_rope.png",
+    "size": 1952,
+    "sha256": "926aba27be5780329361fe332bfdfe0222cc43361d4d19596e157feee413657a"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/walkcycle/HEAD_hair_blonde.png",
+    "size": 6877,
+    "sha256": "88a3c45d53ec736d5d31f19a82f5c4e06662bed456ec62618ce7b4719451f418"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/walkcycle/BODY_male.png",
+    "size": 18953,
+    "sha256": "81f975f01d9c41c82e1e983d98be825d8b91996498d4936b270a83daec28203f"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/walkcycle/TORSO_leather_armor_shoulders.png",
+    "size": 2149,
+    "sha256": "1c666fa7cb02b435f6dbdcea8b1fc70d46bebe2a660ede0d5c2d2080fea519de"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/walkcycle/BEHIND_quiver.png",
+    "size": 3091,
+    "sha256": "84051ac607d3fc74a98ee55903055c8ea69de044d9567ec4f5a9d8d5bbd1f0eb"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/walkcycle/HEAD_chain_armor_hood.png",
+    "size": 7758,
+    "sha256": "bd3804b3d3edca89b9e744866486f2bb603d988ef34c8f3b3dd7874e05133579"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/walkcycle/LEGS_pants_greenish.png",
+    "size": 5333,
+    "sha256": "7845a3dab0279c91c39c8c98d2d7f2250781ef1e382ad467d663b16e96c8a923"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/walkcycle/WEAPON_shield_cutout_chain_armor_helmet.png",
+    "size": 6231,
+    "sha256": "0b1327ccb3cf288426691b7d6157cefdcdee7fee260946d01391822485421624"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/walkcycle/BODY_skeleton.png",
+    "size": 23754,
+    "sha256": "c63ac7388a16edd02d6ebb894d2b2925da84716554e092d67e97ed7147463f6d"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/walkcycle/TORSO_chain_armor_torso.png",
+    "size": 18059,
+    "sha256": "b6d12ce9b710318893138576a972774449f5fe4fc4d8196feac0a1f1badcd327"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/walkcycle/HEAD_chain_armor_helmet.png",
+    "size": 5671,
+    "sha256": "0e49b4b391f67818de133345d49f0d8e17f39d0069a078b86d20f5ab4d17be17"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/walkcycle/LEGS_plate_armor_pants.png",
+    "size": 7279,
+    "sha256": "9d5f69660409692d78ba7d3795087bc1dc027effeaecd1b43f99463954cd0af2"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/walkcycle/HEAD_robe_hood.png",
+    "size": 7062,
+    "sha256": "889e87f5be90b3a01d0aa03871e76e90367c4e8fff9e8ee5791cb5c7feeec18b"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/walkcycle/WEAPON_shield_cutout_body.png",
+    "size": 6368,
+    "sha256": "c4214d299c2bb8d5c12ea3225dfcf8a91bf694e4b7a310dec2d4332d8044b8d6"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/walkcycle/TORSO_plate_armor_torso.png",
+    "size": 4590,
+    "sha256": "df383c66a33b4b48b0cf62e8a714adc7e3a49efaa77205139a41393ae637b3d4"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/walkcycle/BELT_leather.png",
+    "size": 2006,
+    "sha256": "21781079e178887c02440a22f0ed3ba5ccccbd5c11664dcdaad3cb0d5a7b54b2"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/walkcycle/HEAD_leather_armor_hat.png",
+    "size": 4970,
+    "sha256": "bf1d3b4c5ac71c8fb120a9ab34acee45503e43b0ffae9bf067502856920f7230"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/walkcycle/TORSO_leather_armor_torso.png",
+    "size": 5356,
+    "sha256": "692f355b6eeafa53ee7c09cee7d5a592fd4cda433be149760a6261ed678762c5"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/combat_dummy/BODY_animation.png",
+    "size": 12475,
+    "sha256": "d4f251ba1baf403b54f24c6d34542f48380ce9e4b764f34616f9b4a070a69794"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/hurt/LEGS_robe_skirt.png",
+    "size": 1641,
+    "sha256": "42aae41d6f4fa0b3b2cb60ae2698f1ac29e57713e6a9ecbdf6cbb73185a71906"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/hurt/TORSO_leather_armor_shirt_white.png",
+    "size": 2303,
+    "sha256": "5fbcf69ce648277067ecea8992d73d6460e3fda12ab4ad2f2f0466d15ff6affb"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/hurt/TORSO_chain_armor_jacket_purple.png",
+    "size": 1665,
+    "sha256": "bfe1fef0197d17c0d642ee2b896b13b34ff71051cbc4cf8ab0d44995a95ad704"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/hurt/HANDS_plate_armor_gloves.png",
+    "size": 1316,
+    "sha256": "65b32f5c15eda5245f0fdd3f0ca67da9e1864c2278d063895b42ce710fc990dd"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/hurt/TORSO_leather_armor_bracers.png",
+    "size": 612,
+    "sha256": "e4967563a6ee5ed7ff41d87d9fb9c38edec22ee1120504bba0ee2a38a658e0e8"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/hurt/TORSO_plate_armor_arms_shoulders.png",
+    "size": 1987,
+    "sha256": "cfe9865d0e054a223d69b983248325dfde987fce4d12f089fe781e93253aeb55"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/hurt/FEET_plate_armor_shoes.png",
+    "size": 1264,
+    "sha256": "654eb62b85f2db74ff0bbce264fe45f492604edd4a74a9e9ad0a2062b70d1938"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/hurt/FEET_shoes_brown.png",
+    "size": 1030,
+    "sha256": "370243c26ab4a973d6ba1a6b0db28e3858505218b4616c6807f116bf5d56a3c3"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/hurt/TORSO_robe_shirt_brown.png",
+    "size": 1854,
+    "sha256": "b64459153e306e57a7d43550a3a584a94607b6561cafc56f3ef5e17d115ad509"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/hurt/HEAD_plate_armor_helmet.png",
+    "size": 2282,
+    "sha256": "900f4d9694dfc50569c586e3a0fbc1152bd09e360a6ae475f011754f16053f9d"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/hurt/BELT_rope.png",
+    "size": 881,
+    "sha256": "d08dbb448541b3f9cb526da4647751d091e1bd1d267ec24e0ed395ca0a3ad806"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/hurt/HEAD_hair_blonde.png",
+    "size": 2977,
+    "sha256": "9c3ca4602b78d8d798551bd36e6213d9f2b458029e4ff8f256ebe081c59ba3c8"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/hurt/BODY_male.png",
+    "size": 7054,
+    "sha256": "e1c836c6bd2977aa0c1b46507c21aa06e14e8b4115a920f4d21df104879f15b3"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/hurt/TORSO_leather_armor_shoulders.png",
+    "size": 792,
+    "sha256": "fbc4fb82b04cc015df3b42fbd2cd389fbdbd04a2110f42c21133e92043da847f"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/hurt/BEHIND_quiver.png",
+    "size": 1104,
+    "sha256": "4ed57c1eaf8326c7e6c22f9177e49661092339004bb1353f8e90b03712f91d22"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/hurt/HEAD_chain_armor_hood.png",
+    "size": 3071,
+    "sha256": "26136a5ed0d5a13538911e92c79f89c68b3d1e561f51f1355df9a544c137dcc8"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/hurt/LEGS_pants_greenish.png",
+    "size": 1501,
+    "sha256": "84854739d75e7478e17687cddab6573c3eb928147a547f366d9529dbb008b3c2"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/hurt/BODY_skeleton.png",
+    "size": 8597,
+    "sha256": "bc68c6eb4772b0ee2a0ccbb7dfb7bd2655594776edce3ca17288b09491d8498d"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/hurt/TORSO_chain_armor_torso.png",
+    "size": 4377,
+    "sha256": "523ebcf38819869002dea2375e37d582054ae62cdc0e7262b45d2f09ebe27298"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/hurt/HEAD_chain_armor_helmet.png",
+    "size": 2708,
+    "sha256": "1c504aa1f99973e792eefc922ac49be44155489b366407c79fb68ff1c9f66268"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/hurt/LEGS_plate_armor_pants.png",
+    "size": 1551,
+    "sha256": "19ff292ea3bbafcd232875fb3167e46982a0530c553df1e93265df9df0e38cbe"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/hurt/HEAD_robe_hood.png",
+    "size": 3312,
+    "sha256": "d88d02bc2d4cb4a9f9bfcd5b362cda51954c010eb10717d440bd492cd51cd514"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/hurt/TORSO_plate_armor_torso.png",
+    "size": 1630,
+    "sha256": "60d43f24439f27d99ec878126864f0adec314f0759d98ee2a790a44cf172a073"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/hurt/BELT_leather.png",
+    "size": 572,
+    "sha256": "696865b5796f9ec2570faf2207e6f762b40ccf1cb1fe6171e3ef53fa6642f7f6"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/hurt/HEAD_leather_armor_hat.png",
+    "size": 1925,
+    "sha256": "23dc52a669b2529c290fceceeab5a04855889895c0da6088dfcd517826b2f659"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/hurt/TORSO_leather_armor_torso.png",
+    "size": 1401,
+    "sha256": "380193caf0704f6027c1a4019cc74e6e964baf5615e569d3ee9daf1698795a87"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/spellcast/LEGS_robe_skirt.png",
+    "size": 3135,
+    "sha256": "60344411b8184db305136df54b346a8330ffbd275fe702c5a10474d5186d39e6"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/spellcast/TORSO_leather_armor_shirt_white.png",
+    "size": 5407,
+    "sha256": "7565b9241f2c30e8456b2d1d59a98dfce6884c932e113de5610c65e8efb4b13b"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/spellcast/HEAD_skeleton_eye_glow.png",
+    "size": 3487,
+    "sha256": "1950dffe132b0c88315f07ae92de2c819ad305e0b4d1f4aa272f8ae133f75d25"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/spellcast/TORSO_chain_armor_jacket_purple.png",
+    "size": 3585,
+    "sha256": "6fa67d9b68dd65d9ba6365f7220e40f24ce21c157efb2426c9ea498b1a1dc902"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/spellcast/HANDS_plate_armor_gloves.png",
+    "size": 5340,
+    "sha256": "2ce27d3a71c40cb428556bb5dcb39461cee6911ce092ae0884cd94334dbd9319"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/spellcast/TORSO_leather_armor_bracers.png",
+    "size": 1975,
+    "sha256": "b15bd30c4543e5413767f1dda475b4d348269187e04083eea202a8438c8a7478"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/spellcast/TORSO_plate_armor_arms_shoulders.png",
+    "size": 5295,
+    "sha256": "4492c661f8732c26d0ea9fe91cc7c979c7b96d7e0faddb642d45e0abc86f1439"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/spellcast/FEET_plate_armor_shoes.png",
+    "size": 2030,
+    "sha256": "d4ae019c98acb03c6c75a750bcc9a6f5865b899f31b20477a4c2c5889bc8a356"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/spellcast/FEET_shoes_brown.png",
+    "size": 1728,
+    "sha256": "ae9f9584517b29594bf4a90ea40cdc293619377cf1d878cc81f0951a385ecf56"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/spellcast/TORSO_robe_shirt_brown.png",
+    "size": 5565,
+    "sha256": "bcbcbd2beed850da3bf6d78c4689bd53d31806bc429b45b6a4ba5c2037938298"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/spellcast/HEAD_plate_armor_helmet.png",
+    "size": 4400,
+    "sha256": "9ca20b89e84c690017b08985151e87c8941c7fab9baa071b5e1e554080005085"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/spellcast/BELT_rope.png",
+    "size": 1463,
+    "sha256": "57acb395e7f38a9ec589e3e9001b43e9ef136d80b77ba11006693309a15ec09d"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/spellcast/HEAD_hair_blonde.png",
+    "size": 5079,
+    "sha256": "5084346a359c3bf76a12fc1f32748829b92211055061cd3bdacfe08ad09df4bf"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/spellcast/BODY_male.png",
+    "size": 13964,
+    "sha256": "905c8affcfa8431951209b8e811e8dbb55efbfd6fb6759708da67b3b210f3d4a"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/spellcast/TORSO_leather_armor_shoulders.png",
+    "size": 2014,
+    "sha256": "9f524b9b998c763c9d49e80267e6ea808199c3e6bedc814ffbd9efddf2abbdcb"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/spellcast/BEHIND_quiver.png",
+    "size": 2228,
+    "sha256": "696c2c4463ade33810cd1af32fdac549253ee1bc277bf0a0b73e406ad79decf9"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/spellcast/HEAD_chain_armor_hood.png",
+    "size": 4958,
+    "sha256": "aa23cfffac1413ff6add46888f6cb8b5892627447c1a41b8e24e4321c81da0fb"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/spellcast/LEGS_pants_greenish.png",
+    "size": 2440,
+    "sha256": "a4a4b3c787a6e5b95642c05e181a08e2ec24a9c4f59bd8dbc742aaea953cb58a"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/spellcast/BODY_skeleton.png",
+    "size": 17226,
+    "sha256": "3129b83c6005d0ed2bd9d0fc4abcaf4c8dabf0799d37fc1ed76714f6a336de50"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/spellcast/TORSO_chain_armor_torso.png",
+    "size": 11830,
+    "sha256": "1db8902d227991b5d8f3726d3e13cdb5331a18edb74437935e3b0e4d8a351394"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/spellcast/HEAD_chain_armor_helmet.png",
+    "size": 4255,
+    "sha256": "b20d41d5e4dfdc6d9acc2a881560fffd4f067a2818e01997f144f33eabf65510"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/spellcast/LEGS_plate_armor_pants.png",
+    "size": 3041,
+    "sha256": "1adaa1c60f3070c060b7a61f6c73f77a5e77e62e1e4cc6e1d496de965554668c"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/spellcast/HEAD_robe_hood.png",
+    "size": 5634,
+    "sha256": "de729bf3f91b61d57db85a32eddea3c78a6ce3c566496e2638377e22d32f87cb"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/spellcast/TORSO_plate_armor_torso.png",
+    "size": 3656,
+    "sha256": "65a8ea7f9fac442e45ace3686131361bde49a7077447cac2653b22e9844420a8"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/spellcast/BELT_leather.png",
+    "size": 1550,
+    "sha256": "fdc276200dce7bcb0c3440a1ecce4c25555134ce34e25f02b69f6f1974128c74"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/spellcast/HEAD_leather_armor_hat.png",
+    "size": 3731,
+    "sha256": "8ea4b82c265c4833741fcc64ca773301068c3b60480659a2002e20a861122ba4"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/spellcast/TORSO_leather_armor_torso.png",
+    "size": 3563,
+    "sha256": "6e976e2948fd787ac4f4885d8c280dd66a3ae5e49443317d787fcbf42745f9f7"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/slash/LEGS_robe_skirt.png",
+    "size": 3969,
+    "sha256": "3f2e401583c173a9346f939cd9f74c2a98b0fbd2bd6d45b8ee4a702abc2e39c6"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/slash/TORSO_leather_armor_shirt_white.png",
+    "size": 5610,
+    "sha256": "5ec4b78302b52d4fed34bec7c290947824cf24ccdda3ab49fa8961a07f2f3c09"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/slash/TORSO_chain_armor_jacket_purple.png",
+    "size": 4050,
+    "sha256": "82bc5681aa6c62cbe7e50b0c2bce36b5716509e4566fbb1cf82cbd2575081787"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/slash/HANDS_plate_armor_gloves.png",
+    "size": 3912,
+    "sha256": "3092d2cfdecc54bae3a6ffb6fd38625fa2e772d0286d1aa5e2e0d9e3e62588ef"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/slash/TORSO_leather_armor_bracers.png",
+    "size": 2043,
+    "sha256": "e7379773661fe3b6cacbb31fa87d66f8b347c3213c9006fe09d7837b20ad7536"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/slash/WEAPON_dagger.png",
+    "size": 2527,
+    "sha256": "c65b769c5c022f049557eba188e24d18321096dd631f15347251038fda049c35"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/slash/TORSO_plate_armor_arms_shoulders.png",
+    "size": 5016,
+    "sha256": "001a051ea16d2f063ed216dd2a904295a1ee67017b221603bffb0d64e0d604e5"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/slash/FEET_plate_armor_shoes.png",
+    "size": 2698,
+    "sha256": "a8b0d14314efcc2de7dddae282f16a20a123e60f650960ac1ab3153283c7ec41"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/slash/FEET_shoes_brown.png",
+    "size": 2610,
+    "sha256": "719fa68426c9e3f1d204cfc36f764b02c8133fbc01cc1930e12d3b178415355b"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/slash/TORSO_robe_shirt_brown.png",
+    "size": 5149,
+    "sha256": "f0fdeb0175c201e23088bee8def2ae33572e6ff1dcb834d37de790c9feef9cb1"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/slash/HEAD_plate_armor_helmet.png",
+    "size": 5181,
+    "sha256": "16e6d16192cc2201bd3c1528d9d40673c5f94c999508fd0af8f001297ebdb247"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/slash/BELT_rope.png",
+    "size": 1672,
+    "sha256": "4586014e78118dfa9ffb5fd5d00e5b8555709c689360617c214ba847496147a7"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/slash/HEAD_hair_blonde.png",
+    "size": 6482,
+    "sha256": "d10cb110a4b7325831200a5996fd1cc6d53bda51878f7be949cd44eefb6f4fc5"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/slash/TORSO_leather_armor_shoulders.png",
+    "size": 1967,
+    "sha256": "44b0e991dd5059ebfc3114d717d84acf1f9a3b07839ac8b2e1b5357abadae6ca"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/slash/BEHIND_quiver.png",
+    "size": 2558,
+    "sha256": "b6299d5b963c67f9addc6d7bcc5662710ae9240c8988689a9fb848b109e5eeaf"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/slash/HEAD_chain_armor_hood.png",
+    "size": 6497,
+    "sha256": "bef45b2512cffe4fab31ee2beca79006e6c3dec0de6c723dfaaac6c3a5c50a30"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/slash/BODY_human.png",
+    "size": 14370,
+    "sha256": "a191beb7cf21dfb2ccaaba0865d9095196b98729cb4c07ddac2fd81f30138624"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/slash/LEGS_pants_greenish.png",
+    "size": 3572,
+    "sha256": "8925bb076ed326405cde14fb770061adf4b1aaf99289245b2905964d79bd993f"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/slash/BODY_skeleton.png",
+    "size": 18504,
+    "sha256": "b793cce33679defd530c3f18c06378b90fba8d2d6ef3c58c558a6b3e5bfd8c97"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/slash/TORSO_chain_armor_torso.png",
+    "size": 13801,
+    "sha256": "a6a7187bb777f026131abeb293ead0406de70b8a13f830f0c9826c524b4b01a8"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/slash/HEAD_chain_armor_helmet.png",
+    "size": 5239,
+    "sha256": "c08b6b5599b3e034352bd8436c18168496492134aa97c3ce78c0295bc811d622"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/slash/LEGS_plate_armor_pants.png",
+    "size": 4408,
+    "sha256": "7f434d7533bdefd476682e8575a128626922cd62848d3b5f4a08cd952182d760"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/slash/HEAD_robe_hood.png",
+    "size": 6579,
+    "sha256": "dc089e3fd6d2417a9ceaea094e3ef2ff034812d9bf14202a5c9642b10bb200d4"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/slash/TORSO_plate_armor_torso.png",
+    "size": 4228,
+    "sha256": "c0b9bc159d3e07842bf3a229e74fd8c478ac89abecf845a7b849aa6d6ea519a7"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/slash/BELT_leather.png",
+    "size": 1764,
+    "sha256": "5c7954415a73cd7a6eef5b730893f2c51e93b35c2f96c6c23ed34363aa5e9665"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/slash/HEAD_leather_armor_hat.png",
+    "size": 4431,
+    "sha256": "785313a392e62aa7417baffc77c85c2d7e6524836db5451271c27cc4cc1cc71c"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Entry/png/slash/TORSO_leather_armor_torso.png",
+    "size": 4134,
+    "sha256": "a32e0a6aef14a5df16572efa19f05fb52f921057a52f651ef068edd12b2955e3"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Long_Straight_Hair/male/long_straight_hair_male_red.png",
+    "size": 39273,
+    "sha256": "8d7f2845341c16c984ebbb534160daaf5f06ee0d5b10b43d11ecda7984240b2e"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Long_Straight_Hair/male/long_straight_hair_male_purple.png",
+    "size": 39172,
+    "sha256": "8013c2358be4607a1b8d8e149cd727c4f37f765e69c90df42510cdc335f990ec"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Long_Straight_Hair/male/long_straight_hair_male_blonde.png",
+    "size": 39552,
+    "sha256": "c9a34bf617afe17e94e51985a69366962bc1092fdb3ea94ff1b5c20155b171b7"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Long_Straight_Hair/male/long_straight_hair_male_rosepink.png",
+    "size": 39368,
+    "sha256": "07559b3c7d59fffeb680bf82d0bdb7817244c3c6eda4328006a87dc21188da1a"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Long_Straight_Hair/male/long_straight_hair_male_orange.png",
+    "size": 38363,
+    "sha256": "3ff1f2ae183f40eb05b1995cbe1a472fa2beef8d70e0dd11be5bccc612f61513"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Long_Straight_Hair/male/long_straight_hair_male_brown.png",
+    "size": 39136,
+    "sha256": "b0069dd51a193d9ccc325a33053fb1393f8deb87d6452533efe52b33f6dc8413"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Long_Straight_Hair/male/long_straight_hair_male_ashblonde.png",
+    "size": 39523,
+    "sha256": "493689f61df8be2ff82b9f225a4c2c65b1761430df94bcc176fa9f664151a65e"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Long_Straight_Hair/male/long_straight_hair_male_black.png",
+    "size": 38782,
+    "sha256": "838cfa0bbd4f50350a81466b707bcb85a6910acddac50c5db56a21906291459f"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Long_Straight_Hair/male/long_straight_hair_male_blue.png",
+    "size": 38661,
+    "sha256": "b73dbaf41a9f71bb9ece6dc615b0a9e869ac87da5df338e7366b0b28ac64ecd9"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Long_Straight_Hair/male/long_straight_hair_male_brown2.png",
+    "size": 38699,
+    "sha256": "dda61810ccda37b13a11a607570e6f139b71e1a9298705da91c94c15af5f2933"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Long_Straight_Hair/male/long_straight_hair_male_ashplatinum.png",
+    "size": 39035,
+    "sha256": "6c9030b99cf7508c698217787eeb7ae4ff889425d31663a267d2e7b324474dba"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Long_Straight_Hair/male/long_straight_hair_male_green.png",
+    "size": 38858,
+    "sha256": "0fadf1cf253fda96c806707d22992822e7033074b42d1e0b0439e85bc90c2212"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Long_Straight_Hair/female/long_straight_hair_female_blonde.png",
+    "size": 40974,
+    "sha256": "362f82871d1d6baaca431859481ee17ff275898225b0fc716c15718205233c02"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Long_Straight_Hair/female/long_straight_hair_female_red.png",
+    "size": 40560,
+    "sha256": "5fb3d3bf41fa2e944f9f57229d8ec55c0479135b1fcc1011efcadc2da7ad27fd"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Long_Straight_Hair/female/long_straight_hair_female_blue.png",
+    "size": 39896,
+    "sha256": "6d37f4a2a9ed6349af8c067587a69ae6dc7c4d611adf68557f284978c0397f91"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Long_Straight_Hair/female/long_straight_hair_female_purple.png",
+    "size": 40247,
+    "sha256": "5c358bfd14bc6e091195163451f8fee71a0c2c5f8e8bcc3599d087d354b68ca1"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Long_Straight_Hair/female/long_straight_hair_female_green.png",
+    "size": 40011,
+    "sha256": "58bc6cb1f5739707bc4a1275ff6bdd34c9eb37b38ddf074a1b767708eb0f0e9e"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Long_Straight_Hair/female/long_straight_hair_female_ashplatinum.png",
+    "size": 40544,
+    "sha256": "7d4c9212a0529b16d2db8659390284448aa8e5f479bc1404ecd570f9856ae924"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Long_Straight_Hair/female/long_straight_hair_female_orange.png",
+    "size": 39574,
+    "sha256": "b546a7a6730c1a561a2b124a696a2997d6f43ade54fb3a25bd2ec98ffba78093"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Long_Straight_Hair/female/long_straight_hair_female_rosepink.png",
+    "size": 40634,
+    "sha256": "e407d1c107c27e29ba9dad4339998666ed8758d9862647f4386da3c0b4fbb68b"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Long_Straight_Hair/female/long_straight_hair_female_ashblonde.png",
+    "size": 40968,
+    "sha256": "fc07a4925f0173d5bbe404f1ff1948406dcef3e8fe5f9c2073d088812f1fb555"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Long_Straight_Hair/female/long_straight_hair_female_brown2.png",
+    "size": 39805,
+    "sha256": "670739504999bf9591b0fcfe6acac5d78424de3319ebe2e4407d5a18f702377d"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Long_Straight_Hair/female/long_straight_hair_female_brown.png",
+    "size": 40423,
+    "sha256": "8e3c1d5f926f74f019f9099a1876a835cedf8ca0a7706009863187102abe764e"
+  },
+  {
+    "path": "01_CHARACTERS/Player/LPC_Long_Straight_Hair/female/long_straight_hair_female_black.png",
+    "size": 40001,
+    "sha256": "2cf30c4e9acad418e9d4a6def9b0990cfd452a5202d71d5c4d6fcbf0012428e7"
+  },
+  {
+    "path": "13_DOCUMENTATION/CREDITS/credits.csv",
+    "size": 1746,
+    "sha256": "397b4bd1c6f2472df4b76e4c0f760668894f5b5adbcd62a2fafbbd6f1d29ef33"
+  }
+]

@@ -1,0 +1,13 @@
+PENYIMPANAN ASSET GAME — CHECKPOINT 2026-08-23 v5
+
+Status:
+- Baseline v4 preserved and cleaned.
+- Duplicate holding folder removed from deliverable.
+- All current uploads preserved under 12_SOURCE/ORIGINAL_UPLOADS_PASS4_2026-08-23.
+- New source documents/credits copied under 12_SOURCE/SOURCE_DOCUMENTS_PASS4_2026-08-23.
+- New standalone assets categorized.
+- New ZIP image contents extracted and exact duplicates removed.
+- Credits missing/unverified documented separately.
+
+Main deliverable:
+ASSET_LIBRARY_FINAL_2026-08-23_v5.zip

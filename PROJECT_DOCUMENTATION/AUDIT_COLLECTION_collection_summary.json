@@ -1,0 +1,14 @@
+{
+  "collection": "Audit Asset Game \u2014 Consolidated Asset Collection",
+  "asset_files_indexed": 87,
+  "duplicate_hash_groups": 0,
+  "credit_pending_groups": [
+    "05_tiles/TilesDungeon"
+  ],
+  "source_archives_preserved": [
+    "weapons-extended.zip",
+    "TilesDungeon.zip",
+    "lpc_medieval_weapons.zip",
+    "submission_daneeklu.zip"
+  ]
+}

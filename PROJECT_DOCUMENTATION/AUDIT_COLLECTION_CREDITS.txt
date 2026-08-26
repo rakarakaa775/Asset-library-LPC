@@ -1,0 +1,246 @@
+AUDIT ASSET GAME — CREDITS & LICENSE REGISTER
+=================================================
+
+Purpose
+-------
+This register consolidates the attribution information found in the supplied
+archives and, where the source files had no attribution text, verifies the
+matching source page when a reliable match was found.
+
+IMPORTANT:
+- Do not remove attribution notices from redistributed copies.
+- License terms apply to the original/derived asset as stated by its source.
+- "Credit pending / license unknown" means the creator and/or license could not
+  be established from the supplied file and should NOT be guessed.
+
+1. RABBIT — Reorganised LPC rabbit
+----------------------------------
+Files:
+  01_characters/rabbit.png
+  01_characters/rabbit_reorganised.xcf
+
+Source:
+  "Reorganised LPC rabbit" — OpenGameArt.org
+  https://opengameart.org/content/reorganised-lpc-rabbit
+
+Author of the reorganisation:
+  Evert
+
+Original art:
+  Stephen Challener (Redshrike), commissioned by Tebruno99 for PixelFarm.
+
+Attribution notice:
+  Stephen Challener (Redshrike), commissioned by Tebruno99 for PixelFarm
+  and hosted by OpenGameArt.org.
+
+License:
+  CC-BY 3.0 / CC-BY-SA 3.0 / OGA-BY 3.0
+  The source page states that Evert's reorganisation itself needs no credit.
+
+2. LPC FAUN & MINOTAUR
+----------------------
+Files:
+  01_characters/lpc faun complete.xcf
+  01_characters/lpc minotaur complete.xcf
+
+Source:
+  "LPC Faun and Minotaur" — OpenGameArt.org
+  https://opengameart.org/content/lpc-faun-and-minotaur
+
+Author:
+  Evert
+
+License:
+  CC-BY-SA 3.0 / GPL 3.0
+
+Required component attribution:
+  - Daniel Eddeland (daneeklu) — cow's head sprite
+  - Nila122 — lizard horns
+  - Stephen Challener (Redshrike) — normal body
+  - Dalonedrau and ElizaWy — muscular body sprites
+  - Link back to the LPC Faun and Minotaur source page.
+
+3. RAM / MALE SHEEP
+-------------------
+Files:
+  02_animals/ram_walk.png
+  02_animals/ram eat.png
+
+Source:
+  "LPC style ram (male sheep)" — OpenGameArt.org
+  https://opengameart.org/content/lpc-style-ram-male-sheep
+
+Author:
+  Evert
+
+License:
+  CC-BY-SA 3.0 / GPL 3.0
+
+Required attribution:
+  - Daniel Eddeland (daneeklu) — original sheep sprite
+  - Nila122 — lizard horns
+  - Evert — ram combination/asset
+  Link back to the source page above.
+
+4. LPC SHADOWS
+--------------
+Files:
+  03_shadows/lpc_shadow.png
+  03_shadows/lpc_shadow_child.png
+
+Source:
+  "Shadow for LPC Sprite" — OpenGameArt.org
+  https://opengameart.org/content/shadow-for-lpc-sprite
+
+Author:
+  Dr. Jamgo
+
+License:
+  CC0
+
+5. WEREWOLF (LPC)
+-----------------
+Files:
+  01_characters/werewolf-48x64.xcf
+  01_characters/werewolf-alt-SWEN.png
+  01_characters/werewolf-alt-NESW.png
+
+Source:
+  "Werewolf (LPC)" — OpenGameArt.org
+  https://opengameart.org/content/werewolf-lpc
+
+Creators:
+  Stephen Challener (Redshrike)
+  William Thompson (William.Thompsonj)
+  Jordan Irwin (AntumDeluge)
+
+License:
+  CC-BY-SA 3.0
+
+The source states that the werewolf uses the LPC Character Base by Redshrike
+and LPC Wolf Animation by Redshrike & WilliamThompsonJ.
+
+6. EXTENDED WEAPON ANIMATIONS
+-----------------------------
+Source archive:
+  99_source_archives/weapons-extended.zip
+
+Extracted files:
+  04_weapons/weapons-extended/
+
+Source credits:
+  [LPC] Extended Weapon Animations by bluecarrot16, Johannes Sjölund
+  (wulax), Daniel Eddeland (daneeklu), gr3yh47, and tskaufma.
+  Commissioned by castelonia.
+
+Whole submission:
+  CC-BY-SA 3.0
+
+Individual file licenses from CREDITS-weapons.txt:
+  - scythe-slash-oversize.png — bluecarrot16 — CC0
+  - scythe.png — bluecarrot16 — CC0
+  - glowsword_blue.png — tskaufma, Johannes Sjölund (wulax), bluecarrot16
+    — CC-BY-SA 3.0 / GPL 3.0
+  - glowsword_red.png — tskaufma, Johannes Sjölund (wulax), bluecarrot16
+    — CC-BY-SA 3.0 / GPL 3.0
+  - longsword.png — Johannes Sjölund (wulax), bluecarrot16
+    — CC-BY-SA 3.0 / GPL 3.0
+  - mace-slash-oversize.png — Johannes Sjölund (wulax), bluecarrot16
+    — CC-BY-SA 3.0 / GPL 3.0
+  - mace.png — Johannes Sjölund (wulax), bluecarrot16
+    — CC-BY-SA 3.0 / GPL 3.0
+  - rapier.png — Johannes Sjölund (wulax), bluecarrot16
+    — CC-BY-SA 3.0 / GPL 3.0
+  - saber.png — Daniel Eddeland (daneeklu), wulax, gr3yh47
+    — CC-BY-SA 3.0
+  - dagger.png — Johannes Sjölund (wulax), bluecarrot16
+    — CC-BY-SA 3.0 / GPL 3.0
+
+The supplied CREDITS-weapons.txt also identifies these base sources:
+  - LPC Medieval fantasy character sprites — Johannes Sjölund (wulax)
+    CC-BY-SA 3.0 / GPL 3.0
+    https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+  - LPC Glow Sword — tskaufma, Johannes Sjölund (wulax)
+    CC-BY-SA 3.0 / GPL 3.0
+    https://opengameart.org/content/lpc-glow-sword
+  - LPC Weapons: two bows, a spear and a trident — Daniel Eddeland
+    (daneeklu), wulax, gr3yh47
+    CC-BY-SA 3.0
+    https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident
+
+7. LPC MEDIEVAL WEAPONS
+-----------------------
+Source archive:
+  99_source_archives/lpc_medieval_weapons.zip
+
+Extracted files:
+  04_weapons/LPC_Medieval_Weapons/
+
+Source:
+  "LPC Medieval Weapons" — OpenGameArt.org
+
+Attribution text supplied in the archive:
+  LPC Medieval Weapons by Benjamin K. Smith, commissioned by castelonia.
+
+License stated by supplied Attribution.txt:
+  CC-BY-SA 3.0 / CC-BY-SA 4.0 / OGA-BY 3.0 / OGA-BY 4.0 / GPL 3.0
+
+8. DANIEL EDDELAND / DANEKLU SUBMISSION
+---------------------------------------
+Source archive:
+  99_source_archives/submission_daneeklu.zip
+
+Extracted files:
+  06_submissions/submission_daneeklu/
+
+Source:
+  "Farming tilesets, magic animations and UI elements"
+  LPC submission by Daniel Eddeland
+
+Attribution:
+  Please attribute creator as Daniel Eddeland.
+  The supplied readme also asks for a link to OpenGameArt.org and preferably
+  the submission page for this art package.
+
+Licenses:
+  CC-BY-SA 3.0
+  GNU GPL 3.0 or later
+
+The supplied readme notes that some art is based on the LPC competition base
+assets.
+
+9. DUNGEON TILES — CREDIT PENDING
+---------------------------------
+Files:
+  05_tiles/TilesDungeon/
+
+Source supplied:
+  TilesDungeon.zip
+
+Inspection result:
+  The archive contains PNG tiles and Preview.JPG but no credits, readme,
+  license, or attribution file was present.
+
+Status:
+  CREATOR UNKNOWN / LICENSE UNKNOWN
+
+Policy for this collection:
+  Do not assign a creator or license by guesswork.
+  Keep this set marked as pending verification until the original source
+  page or creator/license information is found.
+
+10. SOURCE ARCHIVES
+-------------------
+The original supplied archives are preserved under:
+  99_source_archives/
+
+This is intentional so attribution/license text from the original submissions
+remains available alongside the consolidated collection.
+
+11. DUPLICATE FILES
+-------------------
+The collection may contain the same art in both extracted source archives and
+standalone working files. Duplicate detection was performed by SHA-256.
+See 00_documents/ASSET_CATALOG.csv for hashes and duplicate groups.
+
+END OF REGISTER

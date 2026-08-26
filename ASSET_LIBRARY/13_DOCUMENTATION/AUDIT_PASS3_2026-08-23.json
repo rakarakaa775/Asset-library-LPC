@@ -1,0 +1,14 @@
+{
+  "version": "2026-08-23-v4",
+  "note": "preview image moved to documentation, not treated as game asset",
+  "image_counts_by_top_folder": {
+    "13_DOCUMENTATION": 1,
+    "03_ENVIRONMENT": 1,
+    "02_TILES_AND_TERRAIN": 7,
+    "05_OBJECTS": 99,
+    "06_UI": 7,
+    "08_EFFECTS": 2,
+    "15_UNSORTED": 41,
+    "01_CHARACTERS": 6430
+  }
+}

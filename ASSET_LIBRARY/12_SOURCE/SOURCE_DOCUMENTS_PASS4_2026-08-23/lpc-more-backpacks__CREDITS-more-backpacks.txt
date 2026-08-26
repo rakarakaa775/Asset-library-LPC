@@ -1,0 +1,11 @@
+"[LPC] More Backpacks" by bluecarrot16 and Daniel Eddeland (daneeklu).
+License: CC-BY-SA 3.0 or GPL 3.0.
+
+Note: everything except `basket_contents/wood/*` was created entirely by bluecarrot16 and can be used under CC0 license. 
+
+
+Files in `basket_contents/wood/*` is based on:
+"[LPC] Farming tilesets, magic animations and UI elements"
+Daniel Eddeland (daneeklu)
+CC-BY-SA 3.0 / GPL 3.0
+https://opengameart.org/content/lpc-farming-tilesets-magic-animations-and-ui-elements

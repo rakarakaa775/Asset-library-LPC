@@ -1,0 +1,14 @@
+ASSET CREDIT PENDING / VERIFICATION REQUIRED
+=============================================
+
+1. TilesDungeon.zip
+   - Supplied archive contains 16 image files.
+   - No credit/readme/license/attribution file was found inside the archive.
+   - Creator: UNKNOWN
+   - License: UNKNOWN
+   - Do not invent attribution or assume a permissive license.
+   - Recommended status: keep internal/prototyping only until the original
+     source or author/license is verified.
+
+Other assets in this consolidated package have a source attribution recorded
+in CREDITS.txt.
