@@ -71,3 +71,66 @@ All source groups were audited. Import status is tracked separately from invento
 ## Remaining work
 
 Continue with exact original-byte transfers where the connector can safely carry the source payload. The full archive cannot be uploaded as a single GitHub connector write with the available interface; large/bulk binary transfer requires a suitable repository upload path.
+
+
+## Fresh audit — 13_DOCUMENTATION (2026-09-18)
+
+A fresh comparison was performed against the current main branch using the uploaded source archive Asset-library-LPC_Finalized_Review.zip.
+
+- Source files under 13_DOCUMENTATION/: 85
+- Files currently present in ASSET_LIBRARY/FINALIZED_REVIEW/13_DOCUMENTATION/: 47 of those 85
+- Source files still absent from the target: 38
+- This audit supersedes older counts for section 13; filenames were checked against the current repository state before continuing.
+
+### Source files not yet imported
+
+The fresh audit identifies the following 38 source entries as absent from the target. The authoritative source list remains the ZIP archive; the import queue must be deduplicated before each write.
+
+- bat-1.3__sources.md
+- container-v4_2__CREDITS-container.txt
+- lpc-victorian-preview-see-readme__CREDITS-windows-doors.txt
+- lpc_lamp_posts_rework-1.0__LICENSE-GPL-2.0.txt
+- lpc_structure_pack__Credits__4.txt
+- lpc-victorian-decoration__CREDITS-decorations-victorian.txt
+- lpc-victorian-preview-see-readme__README.txt
+- LPC_Submissions__Attribution.txt
+- credits-furniture.txt___CREDITS-furniture.txt
+- lpc_structure_pack__Credits.txt
+- lpc_lamp_posts_rework-1.0__README.txt
+- lpc_bazaar_rework-1.0-1__sources.md
+- lpc_grave_markers_rework-1.3__README.txt
+- lpc_objectspack__Credits__2.txt
+- lpc_structure_pack__Credits__9.txt
+- bat-1.3__LICENSE-OGA-BY-3.0.txt
+- lpc-floors__CREDITS-floors.txt
+- lpc_structure_pack__Credits__6.txt
+- lpc-meals__CREDITS-meals.txt
+- lpc_structure_pack__Credits__10.txt
+- lpc_wooden_bridge_rework-1.0__sources.md
+- lpc_objectspack__Credits.txt
+- LPC_Submissions_Merged_2.0__ReadMe.txt
+- lpc_grave_markers_rework-1.3__sources.md
+- LPC_Submissions__Credits.txt
+- lpc_wooden_bridge_rework-1.0__CHANGES.txt
+- lpc_structure_pack__Credits__14.txt
+- LPC_city_outside__credits.txt
+- lpc-victorian-preview-see-readme__CREDITS-bricks.txt
+- LPC_city_inside__credits.txt
+- lpc_structure_pack__Credits__13.txt
+- crops-v2.1__CREDITS-crops.txt
+- lpc-food-v1__CREDITS-food.txt
+- lpc-food-v2__CREDITS-food.txt
+- lpc_structure_pack__Credits__2.txt
+- lpc_structure_pack__Credits.txt
+- lpc_lamp_posts_rework-1.0__README.txt
+- lpc_objectspack__Credits__2.txt
+- lpc_objectspack__Credits.txt
+
+### Next batch queue
+
+The four previously blocked exact-text transfers remain queued:
+
+- lpc_lamp_posts_rework-1.0__LICENSE-GPL-2.0.txt — 18,092 B
+- crops-v2.1__CREDITS-crops.txt — 11,645 B
+- lpc-food-v1__CREDITS-food.txt — 21,137 B
+- lpc-food-v2__CREDITS-food.txt — 51,314 B
