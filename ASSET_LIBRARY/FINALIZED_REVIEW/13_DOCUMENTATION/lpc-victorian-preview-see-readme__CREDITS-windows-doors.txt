@@ -29,7 +29,7 @@ https://opengameart.org/content/old-frogatto-houses
 Cute dungeon LPC edit
 Evert, Buch, Lanea Zimmerman (Sharm)
 CC-BY 3.0
-https://opengameart.org/content/cute-dungeon-lpc-edit
+http://opengameart.org/content/cute-dungeon-lpc-edit
 
 Spooky Castle Tileset
 Buch
