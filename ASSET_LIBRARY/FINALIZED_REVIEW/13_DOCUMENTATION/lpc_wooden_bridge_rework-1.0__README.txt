@@ -20,4 +20,3 @@ Links:
   - OpenGameArt.org submission: https://opengameart.org/node/81762
   - See also "sources.md".
 
-
