@@ -144,3 +144,17 @@ Fresh audit was completed immediately before this batch. Five previously absent 
 | ASSET_LIBRARY/FINALIZED_REVIEW/13_DOCUMENTATION/LPC_city_inside__credits.txt~ | 0 B | e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 | 3691aa9db67aa33984abb9a649406572170bdb94 |
 
 Post-batch source-vs-target count for section 13: **53 source entries now present in target; 32 source entries remain absent**. One source entry, 349ea57e31a7.json, is classified as 15_REVIEW_REQUIRED and is not being promoted into the finalized documentation path.
+
+
+## Batch import — 13_DOCUMENTATION (4 files)
+
+Fresh duplicate audit was performed immediately before this batch. Four absent source files were transferred and committed individually:
+
+| File | Commit |
+|---|---|
+| LPC_city_outside__credits.txt | bf02244cc6f45aa8d84f28841d5adbfefae291ac |
+| bed-1.0__sources.md | 615589f2df627de0d5aad770629b9e298bb1c54a |
+| credits-furniture.txt___CREDITS-furniture.txt | 2592e3d4d47f16aa808fd130ad81493d4b09d812 |
+| lpc-floors__CREDITS-floors.txt | 86f44d75cb784446987d7b5e9e48ac3c956932d3 |
+
+The four files were transferred from the uploaded archive into ASSET_LIBRARY/FINALIZED_REVIEW/13_DOCUMENTATION/. The next batch requires another fresh duplicate audit before any write.
