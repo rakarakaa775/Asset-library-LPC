@@ -10,8 +10,8 @@ Started: 2026-09-18
 - Existing repository content: preserved
 - Runtime activation: **none**
 - Foundation impact: **none**
-- Verified imports committed: **26 files**
-- Remaining source files not imported: **13,075 files**
+- Verified imports committed: **53 files**
+- Remaining source files not imported: **13,048 files**
 
 ## Latest verified import
 
@@ -23,7 +23,7 @@ Started: 2026-09-18
 
 ## Previously verified imports
 
-The earlier verified import set remains recorded in the intake log. This progress file intentionally summarizes the latest verified addition rather than duplicating the full ledger.
+The earlier verified import set remains recorded in the intake log. The current GitHub tree contains the previously imported documentation files plus this latest addition.
 
 ## Integrity rule
 
