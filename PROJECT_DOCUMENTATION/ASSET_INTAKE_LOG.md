@@ -129,3 +129,18 @@ Use fresh duplicate audit immediately before each batch. The four larger text fi
 - crops-v2.1__CREDITS-crops.txt — 11,645 B
 - lpc-food-v1__CREDITS-food.txt — 21,137 B
 - lpc-food-v2__CREDITS-food.txt — 51,314 B
+
+
+## Batch import — 13_DOCUMENTATION (5 files)
+
+Fresh audit was completed immediately before this batch. Five previously absent source files were transferred to ASSET_LIBRARY/FINALIZED_REVIEW/13_DOCUMENTATION/ and committed individually:
+
+| Path | Size | Source SHA-256 | Commit |
+|---|---:|---|---|
+| ASSET_LIBRARY/FINALIZED_REVIEW/13_DOCUMENTATION/Animations__Attributions for PNGS.txt | 599 B | 11e6a4f070f710cf399313bad10efae9b87a0e48394b46c9b646d58566fa8843 | 0e3fd53e390bf46e30ab0fad8b28652df40a05d3 |
+| ASSET_LIBRARY/FINALIZED_REVIEW/13_DOCUMENTATION/LPC_Sara__credit.txt | 488 B | b4f7a02aa079bdbf4577e033fd48b8f7c7c0c593d90e9a41465cfcd3f7fe13e1 | c8ee6a63dc2a87c7ba16f7ad1bd89b5f1bb20c5d |
+| ASSET_LIBRARY/FINALIZED_REVIEW/13_DOCUMENTATION/LPC_Submissions__Attribution.txt | 2,551 B | d7e00ea3bb6e032ec7f0f749387fb66fc21c7dbd03c7d497d396f3caa787ad62 | b9a8d1b2213f2a33225dab861ac665d3e6da395a |
+| ASSET_LIBRARY/FINALIZED_REVIEW/13_DOCUMENTATION/LPC_city_inside__credits.txt | 1,327 B | 961a0f762c231e66b69c8e865ae4a3e6e5b7503eb9d69167b7710d47b2e82154c | a45e2ce4fd486e365616cf8f1024fc585c07e9b7 |
+| ASSET_LIBRARY/FINALIZED_REVIEW/13_DOCUMENTATION/LPC_city_inside__credits.txt~ | 0 B | e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 | 3691aa9db67aa33984abb9a649406572170bdb94 |
+
+Post-batch source-vs-target count for section 13: **53 source entries now present in target; 32 source entries remain absent**. One source entry, 349ea57e31a7.json, is classified as 15_REVIEW_REQUIRED and is not being promoted into the finalized documentation path.
